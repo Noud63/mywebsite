@@ -1,0 +1,142 @@
+[
+  {
+    
+    "type": "painting",
+    "title": "D.I.S.C.O",
+    "title_long": "Delusive Interpretations Simulating Coherent Objectivity",
+    "image": "/images/discocontent.jpg",
+    "technique": "Acrylic on canvas",
+    "size": "140 x 270cm",
+    "year": "2015",
+    "bgstyle": "bg-black",
+    "thumbs": [{"img": "/images/thumbnails/discodetail1.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/discodetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/discodetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/discofull.jpg", "detail": "Full image"} ]
+  },
+  {
+    "id": "discoball_1",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_1",
+    "type": "quote",
+    "text": "Painting is an investigation of being.",
+    "name": "Squeak Carnwath",
+    "url": "https://www.squeakcarnwath.com/index.html"
+  },
+  {
+    "id": "ufo",
+    "type": "painting",
+    "title": "U.F.O",
+    "title_long": "Unknown Future Objective",
+    "image": "/images/ufocontent.jpg",
+    "technique": "Acrylic on canvas",
+    "size": "",
+    "year": "2016",
+    "bgstyle": "bg-red-950",
+     "thumbs": [{"img": "/images/thumbnails/ufodetail.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/ufodetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/ufodetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/ufofull.jpg", "detail": "Full image"} ]
+  },
+  {
+    "id": "discoball_5",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "enigma",
+    "type": "painting",
+    "title": "E.N.I.G.M.A.",
+    "title_long": "Exploring Non-linear Ideas Generating Multiple Answers",
+    "image": "/images/enigma.jpg",
+    "technique": "Acrylic on canvas",
+    "size": "",
+    "year": "2016",
+    "bgstyle": "bg-black",
+     "thumbs": [{"img": "/images/thumbnails/enigmadetail1.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/enigmadetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/enigmadetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/enigmafull.jpg", "detail": "Full image"} ]
+  },
+  {
+    "id": "discoball_2",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "overview_1",
+    "type": "overview",
+    "image": "/images/overviewufo.jpg"
+  },
+  {
+    "id": "quote_2",
+    "type": "quote",
+    "text": "If at first, an idea is not absurd, then there is no hope for it!",
+    "name": "Albert Einstein",
+    "url": "https://lifehacker.com/if-at-first-the-idea-is-not-absurd-then-there-is-no-h-5903189"
+  },
+  {
+    "id": "hotel",
+    "type": "painting",
+    "title": "H.O.T.E.L",
+    "title_long": "Exploring Non-linear Ideas Generating Multiple Answers",
+    "image": "/images/hotelcontent.jpg",
+    "technique": "Acrylic on canvas",
+    "size": "",
+    "year": "2018",
+    "bgstyle": "bg-cyan-900",
+     "thumbs": [{"img": "/images/thumbnails/hoteldetail1.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/hoteldetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/hoteldetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/hotelfull.jpg", "detail": "Full image"} ]
+  },
+  {
+    "id": "discoball_3",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "taxonomy",
+    "type": "painting",
+    "title": "Taxonomy/Entropy",
+    "title_long": "",
+    "image": "/images/taxonomy.jpg",
+    "technique": "",
+    "size": "",
+    "year": "2017",
+    "bgstyle": "bg-olive-600",
+    "thumbs": [{"img": "/images/thumbnails/taxonomydetail1.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/taxonomydetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/taxonomydetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/taxonomyfull.jpg", "detail":"Full image"} ]
+  },
+  {
+    "id": "discoball_4",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+   {
+    "id": "quote_3",
+    "type": "quote",
+    "text": "It's not your paintings I like, it is your painting.",
+    "name": "Albert Camus",
+    "url": "https://en.wikipedia.org/wiki/Albert_Camus"
+  },
+  {
+    "id": "patchwork",
+    "type": "painting",
+    "title": "Patchwork",
+    "title_long": "",
+    "image": "/images/patchworkcontent.jpg",
+    "technique": "",
+    "size": "",
+    "year": "2012",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [{"img": "/images/thumbnails/patchworkdetail1.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/patchworkdetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/patchworkdetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/patchworkfull.jpg", "detail": "Full image"} ]
+  },
+  {
+    "id": "discoball_5",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "panorama",
+    "type": "painting",
+    "title": "P.A.N.O.R.a.M.A",
+    "title_long": "",
+    "image": "/images/panorama.jpg",
+    "technique": "",
+    "size": "",
+    "year": "2014",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [{"img": "/images/thumbnails/panoramadetail1.jpg", "detail": "Detail-1"},{"img": "/images/thumbnails/panoramadetail2.jpg", "detail": "Detail-2"},{"img": "/images/thumbnails/panoramadetail3.jpg", "detail": "Detail-3"}, {"img": "/images/thumbnails/panoramafull.jpg", "detail": "Full image"} ]
+  }
+]

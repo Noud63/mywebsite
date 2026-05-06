@@ -1,4 +1,4 @@
-import Quote from "./components/quotes/Quote";
+import Quote from "./components/Quote";
 import Painting from "./components/Painting";
 import Discoball from "./components/Discoball";
 import Overview from "./components/Overview";

@@ -2,11 +2,11 @@ import React from "react";
 
 const Discoball = ({ image }) => {
   return (
-    <div className="flex justify-center h-auto my-10">
+    <div className="flex justify-center my-10">
       <img
-        src={image}
+        src={image || "/images/discoballpara.png"}
         alt="discoball"
-        className="w-[4%] max-md:w-[6%] max-xsm:w-[8%] "
+        className="w-[32px] max-md:w-[25px] "
       />
     </div>
   );

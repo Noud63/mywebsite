@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from "react";
-import { registry } from "./registry";
-import data from "../data.json";
-import Header from "./components/intro/Hero";
-import IntroSection from "./components/intro/IntroSection";
+import { useState, useEffect } from "react";
+import { registry } from "../../registry";
+import data from "../../../data.json";
+import IntroSection from "../intro/IntroSection";
+import Outro from "../Outro";
+import Footer from "../intro/Footer";
 
-function RenderContent({ data }) {
-  return data.map((item, index) => {
+function RenderContent({ data: items }) {
+  return items.map((item, index) => {
     const { type, ...props } = item;
-    // console.log("registry keys:", Object.keys(registry));
     const Component = registry[type];
 
     if (!Component) {
@@ -19,23 +19,18 @@ function RenderContent({ data }) {
   });
 }
 
-function App() {
-
+export default function Home() {
   const [showScrollButton, setShowScrollButton] = useState(false);
 
   useEffect(() => {
     const handleScrollVisibility = () => {
-      if (window.scrollY > 2000) {
-        setShowScrollButton(true);
-      } else {
-        setShowScrollButton(false);
-      }
+      setShowScrollButton(window.scrollY > 2000);
     };
 
     window.addEventListener("scroll", handleScrollVisibility);
 
     return () => window.removeEventListener("scroll", handleScrollVisibility);
-  }, [window.pageYOffset]);
+  }, []);
 
   function scrollToTop() {
     window.scrollTo({
@@ -43,14 +38,18 @@ function App() {
       behavior: "smooth",
     });
   }
+
   return (
     <div className="relative">
       <div className="flex flex-row max-w-[1150px] mx-auto mb-40">
         <div className="bg-repeat-y w-full max-w-[4.8%] bg-[url(/images/ringbinder2.png)] bg-right bg-contain max-xsm:hidden" />
 
         <div className="contentbody bg-white flex flex-col pr-4 max-xsm:px-0">
+          
           <IntroSection />
           <RenderContent data={data} />
+          <Outro />
+          <Footer />
         </div>
       </div>
       {showScrollButton && (
@@ -71,5 +70,3 @@ function App() {
     </div>
   );
 }
-
-export default App;

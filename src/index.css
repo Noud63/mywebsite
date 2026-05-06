@@ -12,6 +12,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Times New Roman", Times, serif;
 }
 
 body:before {
@@ -25,7 +26,7 @@ body:before {
   background: url("/images/backgroundimg3.jpg") repeat;
   background-size: cover;
   background-position: center;
-  opacity: .8;
+  opacity: 0.8;
 }
 
 .contentbody {
@@ -34,4 +35,40 @@ body:before {
 
 .detail {
   box-shadow: 0px 1px 2px rgb(0, 0, 0, 0.6);
+}
+
+/* .allpaintings {
+  background: url("/images/wallpaper5.jpg") repeat;
+  background-size: contain;
+  background-position: center;
+  opacity: 1;
+} */
+
+.infoButton {
+  font-size: calc(12px + (34 - 12) * ((100vw - 320px) / (1920 - 320)));
+  color: white;
+  animation: leaves 2s ease-in-out infinite;
+  padding: 1px;
+}
+
+@keyframes leaves {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.infobox {
+  box-shadow: 0px 2px 24px rgb(0, 0, 0, 0.6);
+}
+
+@media screen and (max-width: 768px) {
+  .infobox {
+    box-shadow: 0px 2px 6px rgb(0, 0, 0, 0.5);
+  }
 }

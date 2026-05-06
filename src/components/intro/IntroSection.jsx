@@ -3,6 +3,7 @@ import Hero from "./Hero";
 import HeroTitle from "./HeroTitle";
 import Intro from "./Intro";
 import ArrowsAndDiscoball from "./ArrowsAndDiscoball";
+import Discoball from "../Discoball";
 
 const IntroSection = () => {
   return (

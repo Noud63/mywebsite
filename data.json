@@ -10,10 +10,26 @@
     "year": "2015",
     "bgstyle": "bg-black",
     "thumbs": [
-      { "img": "/images/thumbnails/discodetail1.jpg", "full": "/images/thumbnails/discodetail1big.jpg","detail": "Detail-1" },
-      { "img": "/images/thumbnails/discodetail2.jpg", "full": "/images/thumbnails/discodetail2big.jpg","detail": "Detail-2" },
-      { "img": "/images/thumbnails/discodetail3.jpg", "full": "/images/thumbnails/discodetail3big.jpg","detail": "Detail-3" },
-      { "img": "/images/thumbnails/discofull.jpg", "full": "/images/thumbnails/discofullsize.jpg","detail": "Full image" }
+      {
+        "img": "/images/thumbnails/discodetail1.jpg",
+        "full": "/images/thumbnails/discodetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/discodetail2.jpg",
+        "full": "/images/thumbnails/discodetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/discodetail3.jpg",
+        "full": "/images/thumbnails/discodetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/discofull.jpg",
+        "full": "/images/thumbnails/discofullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -39,10 +55,26 @@
     "year": "2016",
     "bgstyle": "bg-red-950",
     "thumbs": [
-      { "img": "/images/thumbnails/ufodetail.jpg", "full": "/images/thumbnails/ufodetailbig.jpg", "detail": "Detail-1" },
-      { "img": "/images/thumbnails/ufodetail2.jpg", "full": "/images/thumbnails/ufodetail2big.jpg", "detail": "Detail-2" },
-      { "img": "/images/thumbnails/ufodetail3.jpg", "full": "/images/thumbnails/ufodetail3big.jpg", "detail": "Detail-3" },
-      { "img": "/images/thumbnails/ufofull.jpg", "full": "/images/thumbnails/ufofullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/ufodetail.jpg",
+        "full": "/images/thumbnails/ufodetailbig.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/ufodetail2.jpg",
+        "full": "/images/thumbnails/ufodetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/ufodetail3.jpg",
+        "full": "/images/thumbnails/ufodetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/ufofull.jpg",
+        "full": "/images/thumbnails/ufofullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -61,10 +93,26 @@
     "year": "2016",
     "bgstyle": "bg-black",
     "thumbs": [
-      { "img": "/images/thumbnails/enigmadetail1.jpg", "full": "/images/thumbnails/enigmadetail1big.jpg", "detail": "Detail-1" },
-      { "img": "/images/thumbnails/enigmadetail2.jpg", "full": "/images/thumbnails/enigmadetail2big.jpg", "detail": "Detail-2" },
-      { "img": "/images/thumbnails/enigmadetail3.jpg", "full": "/images/thumbnails/enigmadetail3big.jpg", "detail": "Detail-3" },
-      { "img": "/images/thumbnails/enigmafull.jpg", "full": "/images/thumbnails/enigmafullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/enigmadetail1.jpg",
+        "full": "/images/thumbnails/enigmadetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/enigmadetail2.jpg",
+        "full": "/images/thumbnails/enigmadetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/enigmadetail3.jpg",
+        "full": "/images/thumbnails/enigmadetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/enigmafull.jpg",
+        "full": "/images/thumbnails/enigmafullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -78,11 +126,27 @@
     "image": "/images/overviewufo.jpg"
   },
   {
+    "id": "discoball_2",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "hirst",
+    "type": "hirst",
+    "img": "/images/hirst.jpg",
+    "year": "2007"
+  },
+  {
     "id": "quote_2",
     "type": "quote",
     "text": "If at first, an idea is not absurd, then there is no hope for it!",
     "name": "Albert Einstein",
     "url": "https://lifehacker.com/if-at-first-the-idea-is-not-absurd-then-there-is-no-h-5903189"
+  },
+  {
+    "id": "discoball_5",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   },
   {
     "id": "hotel",
@@ -95,10 +159,26 @@
     "year": "2018",
     "bgstyle": "bg-cyan-900",
     "thumbs": [
-      { "img": "/images/thumbnails/hoteldetail1.jpg", "full": "/images/thumbnails/hoteldetail1big.jpg", "detail": "Detail-1" },
-      { "img": "/images/thumbnails/hoteldetail2.jpg", "full": "/images/thumbnails/hoteldetail2big.jpg", "detail": "Detail-2" },
-      { "img": "/images/thumbnails/hoteldetail3.jpg", "full": "/images/thumbnails/hoteldetail3big.jpg", "detail": "Detail-3" },
-      { "img": "/images/thumbnails/hotelfull.jpg", "full": "/images/thumbnails/hotelfullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/hoteldetail1.jpg",
+        "full": "/images/thumbnails/hoteldetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/hoteldetail2.jpg",
+        "full": "/images/thumbnails/hoteldetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/hoteldetail3.jpg",
+        "full": "/images/thumbnails/hoteldetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/hotelfull.jpg",
+        "full": "/images/thumbnails/hotelfullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -117,14 +197,40 @@
     "year": "2017",
     "bgstyle": "bg-olive-600",
     "thumbs": [
-      { "img": "/images/thumbnails/taxonomydetail1.jpg", "full": "/images/thumbnails/taxonomydetail1big.jpg", "detail": "Detail-1" },
-      { "img": "/images/thumbnails/taxonomydetail2.jpg", "full": "/images/thumbnails/taxonomydetail2big.jpg", "detail": "Detail-2" },
-      { "img": "/images/thumbnails/taxonomydetail3.jpg", "full": "/images/thumbnails/taxonomydetail3big.jpg", "detail": "Detail-3" },
-      { "img": "/images/thumbnails/taxonomyfull.jpg", "full": "/images/thumbnails/taxonomyfullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/taxonomydetail1.jpg",
+        "full": "/images/thumbnails/taxonomydetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/taxonomydetail2.jpg",
+        "full": "/images/thumbnails/taxonomydetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/taxonomydetail3.jpg",
+        "full": "/images/thumbnails/taxonomydetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/taxonomyfull.jpg",
+        "full": "/images/thumbnails/taxonomyfullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
     "id": "discoball_4",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "overview_2",
+    "type": "overview",
+    "image": "/images/hotel_taxonomy.png"
+  },
+  {
+    "id": "discoball_5",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -139,10 +245,26 @@
     "year": "2016",
     "bgstyle": "bg-olive-600",
     "thumbs": [
-      { "img": "/images/thumbnails/thepresentdetail1.jpg", "full": "/images/thumbnails/thepresentdetail1big.jpg", "detail": "Detail-1" },
-      { "img": "/images/thumbnails/thepresentdetail2.jpg", "full": "/images/thumbnails/thepresentdetail2big.jpg", "detail": "Detail-2" },
-      { "img": "/images/thumbnails/thepresentdetail3.jpg", "full": "/images/thumbnails/thepresentdetail3big.jpg", "detail": "Detail-3" },
-      { "img": "/images/thumbnails/thepresentfull.jpg", "full": "/images/thumbnails/thepresentfullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/thepresentdetail1.jpg",
+        "full": "/images/thumbnails/thepresentdetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/thepresentdetail2.jpg",
+        "full": "/images/thumbnails/thepresentdetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/thepresentdetail3.jpg",
+        "full": "/images/thumbnails/thepresentdetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/thepresentfull.jpg",
+        "full": "/images/thumbnails/thepresentfullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -169,19 +291,36 @@
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
-        "img": "/images/thumbnails/patchworkdetail1.jpg","full": "/images/thumbnails/patchworkdetail1big.jpg",
+        "img": "/images/thumbnails/patchworkdetail1.jpg",
+        "full": "/images/thumbnails/patchworkdetail1big.jpg",
         "detail": "Detail-1"
       },
       {
-        "img": "/images/thumbnails/patchworkdetail2.jpg","full": "/images/thumbnails/patchworkdetail2big.jpg",
+        "img": "/images/thumbnails/patchworkdetail2.jpg",
+        "full": "/images/thumbnails/patchworkdetail2big.jpg",
         "detail": "Detail-2"
       },
       {
-        "img": "/images/thumbnails/patchworkdetail3.jpg","full": "/images/thumbnails/patchworkdetail3big.jpg",
+        "img": "/images/thumbnails/patchworkdetail3.jpg",
+        "full": "/images/thumbnails/patchworkdetail3big.jpg",
         "detail": "Detail-3"
       },
-      { "img": "/images/thumbnails/patchworkfull.jpg","full": "/images/thumbnails/patchworkfullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/patchworkfull.jpg",
+        "full": "/images/thumbnails/patchworkfullsize.jpg",
+        "detail": "Full image"
+      }
     ]
+  },
+  {
+    "id": "discoball_5",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "magritte",
+    "type": "magritte",
+    "image": ["/images/pipe.jpg", "/images/pipe2.jpg"]
   },
   {
     "id": "discoball_5",
@@ -199,10 +338,26 @@
     "year": "2014",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
-      { "img": "/images/thumbnails/panoramadetail1.jpg","full": "/images/thumbnails/panoramadetail1big.jpg", "detail": "Detail-1" },
-      { "img": "/images/thumbnails/panoramadetail2.jpg", "full": "/images/thumbnails/panoramadetail2big.jpg", "detail": "Detail-2" },
-      { "img": "/images/thumbnails/panoramadetail3.jpg", "full": "/images/thumbnails/panoramadetail3big.jpg", "detail": "Detail-3" },
-      { "img": "/images/thumbnails/panoramafull.jpg", "full": "/images/thumbnails/panoramafullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/panoramadetail1.jpg",
+        "full": "/images/thumbnails/panoramadetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "img": "/images/thumbnails/panoramadetail2.jpg",
+        "full": "/images/thumbnails/panoramadetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "img": "/images/thumbnails/panoramadetail3.jpg",
+        "full": "/images/thumbnails/panoramadetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "img": "/images/thumbnails/panoramafull.jpg",
+        "full": "/images/thumbnails/panoramafullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -218,6 +373,18 @@
     "url": "https://www.banksy.co.uk/"
   },
   {
+    "id": "banksy",
+    "type": "banksy",
+    "title": "Love is in the Bin",
+    "img": "/images/banksy.png",
+    "year": "2018"
+  },
+  {
+    "id": "discoball_5",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "mindthegap_black",
     "type": "painting",
     "title": "Mind the Gap",
@@ -229,18 +396,25 @@
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
-        "img": "/images/thumbnails/mindthegapdetail1.jpg","full": "/images/thumbnails/mindthegapdetail1big.jpg",
+        "img": "/images/thumbnails/mindthegapdetail1.jpg",
+        "full": "/images/thumbnails/mindthegapdetail1big.jpg",
         "detail": "Detail-1"
       },
       {
-        "img": "/images/thumbnails/mindthegapdetail2.jpg","full": "/images/thumbnails/mindthegapdetail2big.jpg",
+        "img": "/images/thumbnails/mindthegapdetail2.jpg",
+        "full": "/images/thumbnails/mindthegapdetail2big.jpg",
         "detail": "Detail-2"
       },
       {
-        "img": "/images/thumbnails/mindthegapdetail3.jpg","full": "/images/thumbnails/mindthegapdetail3big.jpg",
+        "img": "/images/thumbnails/mindthegapdetail3.jpg",
+        "full": "/images/thumbnails/mindthegapdetail3big.jpg",
         "detail": "Detail-3"
       },
-      { "img": "/images/thumbnails/mindthegapfull.jpg","full": "/images/thumbnails/mindthegapfullsize.jpg", "detail": "Full image" }
+      {
+        "img": "/images/thumbnails/mindthegapfull.jpg",
+        "full": "/images/thumbnails/mindthegapfullsize.jpg",
+        "detail": "Full image"
+      }
     ]
   },
   {
@@ -248,7 +422,7 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "quote_5",
     "type": "quote",
     "text": "Art is anything you can get away with.",
@@ -261,25 +435,29 @@
     "title": "Mind the Gap",
     "title_long": "",
     "image": "/images/overviewmtgoker.jpg",
-    "technique": "Acrylic on canvas",
+    "technique": "Acrylic, charcoal on canvas",
     "size": "200 x 270cm",
     "year": "2014",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
-        "img": "/images/thumbnails/mindthegapokerdetail1.jpg","full": "/images/thumbnails/mindthegapokerdetail1big.jpg",
+        "img": "/images/thumbnails/mindthegapokerdetail1.jpg",
+        "full": "/images/thumbnails/mindthegapokerdetail1big.jpg",
         "detail": "Detail-1"
       },
       {
-        "img": "/images/thumbnails/mindthegapokerdetail2.jpg","full": "/images/thumbnails/mindthegapokerdetail2big.jpg",
+        "img": "/images/thumbnails/mindthegapokerdetail2.jpg",
+        "full": "/images/thumbnails/mindthegapokerdetail2big.jpg",
         "detail": "Detail-2"
       },
       {
-        "img": "/images/thumbnails/mindthegapokerdetail3.jpg","full": "/images/thumbnails/mindthegapokerdetail3full.jpg",
+        "img": "/images/thumbnails/mindthegapokerdetail3.jpg",
+        "full": "/images/thumbnails/mindthegapokerdetail3full.jpg",
         "detail": "Detail-3"
       },
       {
-        "img": "/images/thumbnails/mindthegapokerfull.jpg","full": "/images/thumbnails/mindthegapokerfullsize.jpg",
+        "img": "/images/thumbnails/mindthegapokerfull.jpg",
+        "full": "/images/thumbnails/mindthegapokerfullsize.jpg",
         "detail": "Detail-2"
       }
     ]
@@ -289,17 +467,14 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
-    "id": "overview_2",
+  {
+    "id": "overview_3",
     "type": "overview",
     "image": "/images/mindthegap_overview.jpg"
   },
   {
-    "id": "quote_5",
-    "type": "quote",
-    "text": "Art is anything you can get away with.",
-    "name": "Marshall McLuhan",
-    "url": "https://mcluhangalaxy.wordpress.com/2011/12/08/andy-wharhol-marshall-mcluhan-the-artist-the-visionary/"
+    "id": "aboutmtg",
+    "type": "about"
   },
   {
     "id": "discoball_6",
@@ -327,5 +502,21 @@
     "id": "overview_3",
     "type": "overview",
     "image": "/images/mindthegap_overview_2.jpg"
+  },
+  {
+    "id": "discoball_7",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "duchamp",
+    "type": "duchamp",
+    "image": "/images/duchamp.jpg",
+  "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
+  },
+  {
+    "id": "discoball_7",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

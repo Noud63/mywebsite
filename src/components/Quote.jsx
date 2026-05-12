@@ -2,8 +2,8 @@ import React from "react";
 
 const Quote = ({ text, name, url }) => {
   return (
-    <div className="flex flex-col justify-center items-center py-10 border-b border-t border-blue-950 my-4 max-xsm:mx-2 gap-4">
-      <span className="max-sm:text-[14px] text-[18px] px-8 text-center">
+    <div className="flex flex-col justify-center items-center py-12 border-b border-t border-blue-950 my-4 max-xsm:mx-2 gap-4 max-xsm:py-8">
+      <span className="text-blue-950 text-xl max-sm:text-lg text-center px-4">
         {text}
         <br />
         <a

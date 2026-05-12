@@ -2,7 +2,7 @@ import React from "react";
 
 const Discoball = ({ image }) => {
   return (
-    <div className="flex justify-center my-10">
+    <div className="flex justify-center my-10 max-sm:my-4">
       <img
         src={image || "/images/discoballpara.png"}
         alt="discoball"

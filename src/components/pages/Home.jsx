@@ -2,8 +2,7 @@ import { useState, useEffect } from "react";
 import { registry } from "../../registry";
 import data from "../../../data.json";
 import IntroSection from "../intro/IntroSection";
-import Outro from "../Outro";
-import Footer from "../intro/Footer";
+import AboutMtg from "../AboutMtg";
 
 function RenderContent({ data: items }) {
   return items.map((item, index) => {
@@ -40,16 +39,11 @@ export default function Home() {
   }
 
   return (
-    <div className="relative">
+    <div className="">
       <div className="flex flex-row max-w-[1150px] mx-auto mb-40">
-        <div className="bg-repeat-y w-full max-w-[4.8%] bg-[url(/images/ringbinder2.png)] bg-right bg-contain max-xsm:hidden" />
-
-        <div className="contentbody bg-white flex flex-col pr-4 max-xsm:px-0">
-          
+        <div className="bg-white flex flex-col max-xsm:px-0">
           <IntroSection />
           <RenderContent data={data} />
-          <Outro />
-          <Footer />
         </div>
       </div>
       {showScrollButton && (
@@ -59,11 +53,7 @@ export default function Home() {
             onClick={() => scrollToTop()}
             className="w-[30px] h-[30px] max-sm:w-[25px] max-sm:h-[25px] cursor-pointer"
           >
-            <img
-              src="images/totop.png"
-              alt="totop"
-              className=""
-            />
+            <img src="images/totop.png" alt="totop" className="" />
           </button>
         </div>
       )}

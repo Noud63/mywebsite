@@ -6,7 +6,7 @@ const About = () => {
     <div className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-sm:px-2 text-center max-sm:mt-8">
       <div className="w-full flex max-w-[900px] flex-col ">
         <div className="border-b border-blue-950 pb-4 text-center text-3xl max-sm:text-2xl">
-          <span>What it's al about?</span>
+          <span>What it's al about.</span>
         </div>
 
         <div className="w-full flex flex-col text-xl pt-4 gap-y-4  max-sm:text-lg">
@@ -16,7 +16,7 @@ const About = () => {
             artistic/philosophical quotes and artworks from the history of
             modern art that test the very limits of modern art itself. The
             centerpiece of these experiments is, of course, Marcel Duchamp’s
-            Fountain from 1917. In addition, I have included several works with
+            Fountain from 1917.<br />In addition, I have included several works with
             similar intentions by famous artists such as Maurizio Cattalan,
             Damien Hirst, Banksy and others. One could say it resembles “The
             Emperor’s New Clothes,” since Duchamp’s intellectual statement

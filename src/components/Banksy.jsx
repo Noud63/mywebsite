@@ -2,7 +2,7 @@ import React from "react";
 
 const Banksy = () => {
   return (
-    <div className="max-xsm:px-2">
+    <div className="max-xsm:px-2 my-4">
       {/* Header */}
       <div
         className="
@@ -49,7 +49,7 @@ const Banksy = () => {
       text-lg
     "
       >
-        <div className="text-white bg-black px-16 pt-6 pb-10 max-sm:px-4">
+        <div className="text-white bg-black px-16 pt-8 pb-14 max-sm:px-4">
           <p className="mb-4 text-xl max-sm:text-lg">
             Love is in the Bin is a 2018 art intervention by Banksy at Sotheby's
             London. According to Sotheby's, it is "the first artwork in history

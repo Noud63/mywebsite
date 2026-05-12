@@ -7,6 +7,7 @@ import Banksy from "./components/Banksy";
 import DamienHirst from "./components/DamienHirst";
 import Magritte from "./components/Magritte";
 import Duchamp from "./components/Duchamp";
+import Cattelan from "./components/Cattelan";
 
 export const registry = {
   painting: Painting,
@@ -17,5 +18,6 @@ export const registry = {
   banksy: Banksy,
   hirst: DamienHirst,
   magritte: Magritte,
-  duchamp: Duchamp
+  duchamp: Duchamp,
+  cattelan: Cattelan
 };

@@ -518,5 +518,18 @@
     "id": "discoball_7",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "cattelan",
+    "type": "cattelan",
+    "title": "Comedian",
+    "img": "/images/banana.jpg",
+    "year": "2019"
+  },
+  {
+    "id": "discoball_7",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
+
 ]

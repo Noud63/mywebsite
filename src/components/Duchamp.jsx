@@ -3,7 +3,7 @@ import React from "react";
 const Duchamp = ({ image, url }) => {
   return (
     <div className="my-4">
-      <div className="flex flex-col text-center bg-black py-4 text-white">
+      <div className="flex flex-col text-center bg-black py-6 text-white">
         <span className="text-2xl max-sm:text-xl">Marcel Duchamp</span>
         <span className="text-lg max-sm:text-sm">"Fountain" 1917</span>
       </div>

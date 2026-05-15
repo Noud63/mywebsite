@@ -1,6 +1,6 @@
 import React from "react";
 
-const Banksy = () => {
+const Banksy = ({image, title, name, year}) => {
   return (
     <div className="max-xsm:px-2 my-4">
       {/* Header */}
@@ -9,19 +9,19 @@ const Banksy = () => {
       flex w-full flex-row items-center justify-center 
       border-t border-blue-950
       
-    "
+       "
       >
         <div
           className="
         flex w-full flex-col items-center justify-center
         text-[#797979]
         leading-[1.6]
-        p-[18px] max-sm:p-[12px] max-sm:p-0 bg-black
+        p-6 max-sm:p-[12px] max-sm:p-0 bg-black
       "
         >
-          <span className="text-2xl font-bold text-white max-sm:text-xl">Banksy</span>
+          <span className="text-2xl font-bold text-white max-sm:text-xl">{name}</span>
 
-          <span className="text-lg text-white max-sm:text-[16px]">"Love is in the Bin"</span>
+          <span className="text-lg text-white max-sm:text-[16px]">"{title}"</span>
         </div>
       </div>
 
@@ -32,7 +32,7 @@ const Banksy = () => {
     "
       >
         <img
-          src="images/banksy.png"
+          src={image}
           alt="noud van dun"
           className="w-full h-auto"
         />

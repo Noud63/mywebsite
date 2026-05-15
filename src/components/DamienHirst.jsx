@@ -1,18 +1,18 @@
 import React from "react";
 
-const DamienHirst = ({ img }) => {
+const DamienHirst = ({ image, name, title, year }) => {
   return (
     <div className="w-full bg-black pb-14 my-4">
       <div className="flex flex-col items-center justify-center text-white leading-[1.6] p-[18px] max-sm:p-[12px] max-sm:p-0 border-b border-white mx-4 py-6">
         <span className="text-2xl font-bold text-white max-sm:text-xl">
-          Damien Hirst
+          {name}
         </span>
         <span className="text-lg text-white max-sm:text-[16px]">
-          "For the Love of God"
+          "{title}" {year}
         </span>
       </div>
       <div className="w-full h-auto ">
-        <img src={img} alt="" />
+        <img src={image} alt="" />
       </div>
       <div className="flex flex-col text-white px-16 text-xl gap-y-4 max-sm:text-lg max-sm:px-6">
         <p>

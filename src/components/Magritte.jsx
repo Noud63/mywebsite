@@ -1,6 +1,6 @@
 import React from "react";
 
-const Magritte = ({ image }) => {
+const Magritte = ({ image, name, title, year }) => {
   return (
     <div className="my-4 flex w-full h-auto justify-between flex-col text-[#353535] max-sm:px-2" >
 
@@ -13,7 +13,7 @@ const Magritte = ({ image }) => {
           text-black
           "
           >
-            René Magritte
+            {name}
           </span>
 
           <span
@@ -22,21 +22,12 @@ const Magritte = ({ image }) => {
           text-black
           "
           >
-            'La Trahison des images' 1929
-          </span>
-
-          <span
-            className="
-          text-md
-          text-black
-          "
-          >
-            (aka "Ceci n'est pas une pipe."")
+            "{title}" {year}
           </span>
       </div>
 
       <div className="relative flex w-full h-auto">
-        <img src={image[1]} alt="Magritte pipe mobile" className="flex w-full h-auto"/>
+        <img src={image} alt="Magritte pipe mobile" className="flex w-full h-auto"/>
       </div>
 
       

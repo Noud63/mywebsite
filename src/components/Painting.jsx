@@ -14,7 +14,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id }) => {
   }));
 
   return (
-    <div className={` max-xsm:mx-2 max-sm:pb-0 my-4 border-b border-blue-950 ${id === "mindthegap_red" ? "border-none" : "border-b border-blue-950"}`}>
+    <div className={` max-xsm:mx-2 max-sm:pb-0 my-4 border-b border-blue-950 border-b border-blue-950"}`}>
       <div className="flex justify-center text-blue-950 font-normal tracking-wider text-2xl font-serif py-3 border-t border-b border-blue-950">
         {title}
       </div>
@@ -50,7 +50,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id }) => {
               }}
             >
               <img
-                src={painting.img}
+                src={painting.image}
                 className="w-[200px] h-[130px]  object-cover detail"
                 alt=""
               />
@@ -69,7 +69,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id }) => {
         index={index}
         slides={slides}
         styles={{
-          container: { backgroundColor: "rgba(0, 0, 0, 0.7)" },
+          container: { backgroundColor: "rgba(0, 0, 0, 0.5)" },
         }}
       />
       

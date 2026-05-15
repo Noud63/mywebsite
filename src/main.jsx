@@ -6,6 +6,7 @@ import data from "../data.json";
 import RootLayout from "./components/layout/RootLayout.jsx";
 import Home from "./components/pages/Home.jsx";
 import About from "./components/pages/About.jsx";
+import Contact from "./components/pages/Contact.jsx";
 
 const router = createBrowserRouter([
   {
@@ -13,7 +14,8 @@ const router = createBrowserRouter([
     element: <RootLayout />,
     children: [
       { index: true, element: <Home /> },
-      { path: "about", element: <About /> }
+      { path: "about", element: <About /> },
+      { path: "contact", element: <Contact /> }
     ],
   },
 ]);

@@ -1,7 +1,7 @@
 import { Outlet } from "react-router-dom";
 import Hero from "../intro/Hero";
 import HeroTitle from "../intro/HeroTitle";
-import Footer from "../intro/Footer"
+import Footer from "../Footer";
 
 export default function RootLayout() {
   return (

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Cattelan = ({image, year, title}) => {
+const Cattelan = ({image, year, title, name}) => {
   return (
     <div className="img-16">
   
@@ -24,7 +24,7 @@ const Cattelan = ({image, year, title}) => {
       
 
       <span className="text-2xl max-sm:text-xl">
-       Maurizio Cattelan
+       {name}
       </span>
       <span className="text-xl max-sm:text-sm">
         "{title}" {year}
@@ -43,7 +43,7 @@ const Cattelan = ({image, year, title}) => {
   >
     {/* Main Image */}
     <img
-      src="images/banana.jpg"
+      src={image}
       alt="noud van dun"
       className="w-full h-auto"
     />

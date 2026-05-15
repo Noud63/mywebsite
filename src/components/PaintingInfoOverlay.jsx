@@ -7,7 +7,7 @@ const PaintingInfoOverlay = ({ id, closeOverlay, open }) => {
 
   return (
     <div
-      className={`overlay text-blue-950 flex flex-col justify-center items-center absolute inset-0 bg-neutral-300/80
+      className={`overlay text-black flex flex-col justify-center items-center absolute inset-0 bg-neutral-300/80
         transition-[transform, opacity] duration-500 ease-out ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-0 pointer-events-none"}`}
       onClick={() => closeOverlay(false)}
     >

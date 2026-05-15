@@ -8,7 +8,7 @@ const Overview = ({image}) => {
         alt="overview"
         className=""
       />
-         <div className="absolute flex items-center justify-center bottom-4 right-4 text-white text-md  px-4 rounded-full max-md:text-[12px] max-sm:bottom-1 max-sm:right-0">Overview</div>
+         <div className="absolute flex items-center justify-center bottom-4 right-4 text-white text-md  px-4 border border-white rounded-full max-md:text-[12px] max-sm:bottom-1 max-sm:right-0">Overview</div>
     </div>
   )
 }

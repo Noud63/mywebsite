@@ -33,7 +33,7 @@
     ]
   },
   {
-    "id": "discoball_1",
+    "id": "discoball_0",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -43,6 +43,11 @@
     "text": "Painting is an investigation of being.",
     "name": "Squeak Carnwath",
     "url": "https://www.squeakcarnwath.com/index.html"
+  },
+  {
+    "id": "discoball_1",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   },
   {
     "id": "ufo",
@@ -405,6 +410,42 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
+   {
+    "id": "cow",
+    "type": "painting",
+    "title": "C.o.W.",
+    "title_long": "Coïncidence or Wellplanned",
+    "image": "/images/cow.jpg",
+    "technique": "Acrylic on canvas",
+    "size": "140 x 270cm",
+    "year": "2012",
+    "bgstyle": "bg-black",
+    "thumbs": [{
+        "image": "/images/thumbnails/cowdetail1.jpg",
+        "full": "/images/thumbnails/cowdetail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "image": "/images/thumbnails/cowdetail2.jpg",
+        "full": "/images/thumbnails/cowdetail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+        "image": "/images/thumbnails/cowdetail3.jpg",
+        "full": "/images/thumbnails/cowdetail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+        "image": "/images/thumbnails/cowfull.jpg",
+        "full": "/images/thumbnails/cowfullsize.jpg",
+        "detail": "Full-size"
+      }]
+  },
+  {
+    "id": "discoball_16",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
   {
     "id": "mindthegap_black",
     "type": "painting",
@@ -439,7 +480,7 @@
     ]
   },
   {
-    "id": "discoball_16",
+    "id": "discoball_17",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -484,7 +525,7 @@
     ]
   },
   {
-    "id": "discoball_17",
+    "id": "discoball_18",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -498,7 +539,7 @@
     "type": "about"
   },
   {
-    "id": "discoball_18",
+    "id": "discoball_19",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -536,7 +577,7 @@
     ]
   },
   {
-    "id": "discoball_19",
+    "id": "discoball_20",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -546,7 +587,7 @@
     "image": "/images/mindthegap_overview_2.jpg"
   },
   {
-    "id": "discoball_20",
+    "id": "discoball_21",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -559,7 +600,7 @@
   "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
   },
   {
-    "id": "discoball_21",
+    "id": "discoball_22",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -571,7 +612,7 @@
     "url": "https://streamlinepublishing.com/inside-art/art-is-not-what-you-see-but-what-you-make-others-see/"
   },
   {
-    "id": "discoball_22",
+    "id": "discoball_23",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -609,7 +650,7 @@
     ]
   },
   {
-    "id": "discoball_23",
+    "id": "discoball_24",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -622,7 +663,7 @@
     "year": "2019"
   },
   {
-    "id": "discoball_24",
+    "id": "discoball_25",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -632,7 +673,7 @@
     "image": "/images/mindthegapblackoverview.jpg"
   },
   {
-    "id": "discoball_25",
+    "id": "discoball_26",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -644,7 +685,7 @@
     "url": "https://www.egon-schiele.com"
   },
   {
-    "id": "discoball_26",
+    "id": "discoball_27",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

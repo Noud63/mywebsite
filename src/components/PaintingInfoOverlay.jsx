@@ -12,23 +12,21 @@ const PaintingInfoOverlay = ({ id, closeOverlay, open }) => {
       onClick={() => closeOverlay(false)}
     >
       <div
-        className="infobox w-[60%] h-[55%] flex justify-center flex-col items-center bg-linear-to-t from-neutral-300 to-white p-8 rounded-xl 
-      max-lg:w-[90%] max-lg:h-[80%] max-xsm:w-full max-xsm:h-full max-xsm:p-4 border-b-2 border-stone-400"
+        className="relative infobox w-[60%] h-[55%] flex justify-center flex-col items-center bg-linear-to-t from-neutral-300 to-white p-8 rounded-xl 
+      max-lg:w-[90%] max-lg:h-[80%] max-xsm:w-full max-xsm:h-full max-xsm:p-4 border-b-1 border-stone-500 max-sm:h-[90%]"
       >
         <div className="flex flex-col items-center border-b border-black pb-2 mb-2">
-          <div className="w-full flex justify-center text-xl font-normal border-b border-black mb-2 pb-2">
+          <div className="w-full flex justify-center text-xl font-normal border-b border-black mb-2 pb-2 max-sm:text-lg">
             {painting?.title}
             <span className="ml-2 font-normal">({painting?.year})</span>
           </div>
-          <span
-            className={`text-center`}
-          >
-            {painting?.title_long}
-          </span>
-          <span>{painting?.technique}</span>
-          <span>{painting?.size}</span>
+          <span className={`text-center max-sm:text-lg`}>{painting?.title_long}</span>
+          <span className="max-sm:text-sm">{painting?.technique}</span>
+          <span className="max-sm:text-sm">{painting?.size}</span>
         </div>
+        <div className="absolute bottom-2 text-sm text-gray-600 max-sm:text-[10px]">&copy;noud van dun</div>
       </div>
+        
     </div>
   );
 };

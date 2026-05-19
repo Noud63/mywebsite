@@ -11,12 +11,14 @@ const About = () => {
 
         <div className="w-full flex flex-col text-xl pt-4 gap-y-4  max-sm:text-lg">
           <p>
-            Not a conventional summary of works produced over a period of time
-            by an artist, but rather a selection of my work, expanded with
-            artistic and philosophical quotes, alongside artworks from the
-            history of modern art that test the very limits of art itself. The
-            centerpiece of these experiments is, of course, Marcel Duchamp’s
-            Fountain from 1917.
+            This is not a conventional summary of works produced over a period
+            of time by an artist, but rather a selection of my work, expanded
+            with artistic and philosophical quotes, alongside artworks from the
+            history of modern art that test the very limits of art itself and
+            create the context in which modern art can be understood. The
+            centerpiece of these experiments is Marcel Duchamp’s Fountain from
+            1917, that was voted the most influential artwork of the 20th
+            century.
           </p>
           <p>
             In addition, I have included several works with similar intentions
@@ -29,9 +31,15 @@ const About = () => {
             world to its core. The extreme nature of these artworks may obscure
             their relationship to art history, leading viewers to mistakenly
             perceive them as something new.
-            <p>
-              
-            </p>
+          </p>
+          <p>
+            As I mentioned in the introduction, I made a selection from my work
+            produced between roughly 1990 and 2018. The works reveal a
+            cluster-shaped development, with each period distinguished from the
+            others by different materials, styles, and techniques. The
+            motivation or inspiration, however, is often the same, and all the
+            works are connected by a common thread rooted in a shared set of
+            ideas and themes.
           </p>
           <p className="text-sm text-center">
             (Note: For convenience, I use “modern art” as an umbrella term that

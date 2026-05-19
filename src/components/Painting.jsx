@@ -14,7 +14,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id }) => {
   }));
 
   return (
-    <div className={` max-xsm:mx-2 max-sm:pb-0 my-4 border-b border-blue-950 border-b border-blue-950"}`}>
+    <div className={` max-xsm:mx-2 max-sm:pb-0 my-4 ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}>
       <div className="flex justify-center text-blue-950 font-normal tracking-wider text-2xl font-serif py-3 border-t border-b border-blue-950">
         {title}
       </div>
@@ -38,7 +38,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id }) => {
           </div>
         
       </div>
-      {thumbs.length > 0 && <div className="w-full grid grid-cols-4 max-md:grid-cols-2 gap-[8%] py-8 max-sm:gap-10 ">
+      {thumbs.length > 0 && <div className="w-full grid grid-cols-4 max-md:grid-cols-2 gap-4 pt-6 pb-6 max-sm:pb-4">
         {thumbs.map((painting, index) => {
           return (
             <div
@@ -51,11 +51,11 @@ const Painting = ({ title, image, thumbs, bgstyle, id }) => {
             >
               <img
                 src={painting.image}
-                className="w-[200px] h-[130px]  object-cover detail"
+                className="w-[200px] h-[130px] object-cover detail max-xsm:w-[150px] max-xsm:h-[100px]"
                 alt=""
               />
               <div
-                className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px]`}
+                className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
               >
                 {painting.detail}
               </div>

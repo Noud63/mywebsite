@@ -15,10 +15,10 @@ const About = () => {
             of time by an artist, but rather a selection of my work, expanded
             with artistic and philosophical quotes, alongside artworks from the
             history of modern art that test the very limits of art itself and
-            create the context in which modern art can be understood. The
-            centerpiece of these experiments is Marcel Duchamp’s Fountain from
-            1917, that was voted the most influential artwork of the 20th
-            century.
+            establish the outer boundaries of the context within which modern
+            art can be understood. The centerpiece of these experiments is
+            Marcel Duchamp’s Fountain from 1917, that was voted the most
+            influential artwork of the 20th century.
           </p>
           <p>
             In addition, I have included several works with similar intentions
@@ -41,8 +41,9 @@ const About = () => {
             works are connected by a common thread rooted in a shared set of
             ideas and themes.
           </p>
-          <p className="text-sm text-center">
-            (Note: For convenience, I use “modern art” as an umbrella term that
+
+          <p className="text-sm text-center mt-8">
+            (Note: for convenience, I use “modern art” as an umbrella term that
             includes contemporary art as well.)
           </p>
         </div>

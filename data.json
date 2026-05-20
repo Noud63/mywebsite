@@ -414,7 +414,7 @@
     "id": "cow",
     "type": "painting",
     "title": "C.o.W.",
-    "title_long": "Coïncidence or Wellplanned",
+    "title_long": "Coincidence or Wellplanned",
     "image": "/images/cow.jpg",
     "technique": "Acrylic on canvas",
     "size": "140 x 270cm",
@@ -596,6 +596,7 @@
     "name": "Marcel Duchamp",
     "year": "1917",
     "type": "duchamp",
+    "title": "Fountain",
     "image": "/images/duchamp.jpg",
   "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
   },

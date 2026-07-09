@@ -9,6 +9,7 @@
     "size": "140 x 270cm",
     "year": "2015",
     "bgstyle": "bg-black",
+    "cluster": "Cluster-A",
     "thumbs": [
       {
         "image": "/images/thumbnails/discodetail1.jpg",
@@ -58,6 +59,7 @@
     "technique": "Acrylic on canvas",
     "size": "110 x 190cm",
     "year": "2016",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-red-950",
     "thumbs": [
       {
@@ -96,6 +98,7 @@
     "technique": "Acrylic on canvas",
     "size": "140 x 270cm",
     "year": "2016",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-black",
     "thumbs": [
       {
@@ -164,6 +167,7 @@
     "technique": "Acrylic on canvas",
     "size": "170 x 270cm",
     "year": "2018",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-cyan-900",
     "thumbs": [
       {
@@ -202,6 +206,7 @@
     "technique": "Acrylic on canvas",
     "size": "180 x 200cm",
     "year": "2017",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-olive-600",
     "thumbs": [
       {
@@ -250,6 +255,7 @@
     "technique": "Acrylic on canvas",
     "size": "200 x 165cm",
     "year": "2016",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-olive-600",
     "thumbs": [
       {
@@ -295,6 +301,7 @@
     "technique": "Acrylic on canvas",
     "size": "200 x 270cm",
     "year": "2012",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -346,6 +353,7 @@
     "technique": "Acrylic on canvas",
     "size": "140 x 240cm",
     "year": "2014",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -419,6 +427,7 @@
     "technique": "Acrylic on canvas",
     "size": "140 x 270cm",
     "year": "2012",
+     "cluster": "Cluster-A",
     "bgstyle": "bg-black",
     "thumbs": [{
         "image": "/images/thumbnails/cowdetail1.jpg",
@@ -455,6 +464,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "150 x 250cm",
     "year": "2012",
+     "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -492,6 +502,11 @@
     "url": "https://mcluhangalaxy.wordpress.com/2011/12/08/andy-wharhol-marshall-mcluhan-the-artist-the-visionary/"
   },
   {
+    "id": "discoball_18",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "mindthegap_oker",
     "type": "painting",
     "title": "Mind the Gap",
@@ -500,6 +515,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "200 x 270cm",
     "year": "2014",
+       "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -525,7 +541,7 @@
     ]
   },
   {
-    "id": "discoball_18",
+    "id": "discoball_19",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -539,7 +555,7 @@
     "type": "about"
   },
   {
-    "id": "discoball_19",
+    "id": "discoball_20",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -552,6 +568,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "180 x 160cm",
     "year": "2008",
+      "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -577,7 +594,7 @@
     ]
   },
   {
-    "id": "discoball_20",
+    "id": "discoball_21",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -626,6 +643,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "90 x 135cm",
     "year": "2007",
+       "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {

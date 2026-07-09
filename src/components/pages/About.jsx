@@ -3,13 +3,13 @@ import { Link } from "react-router-dom";
 
 const About = () => {
   return (
-    <div className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-sm:px-2 max-sm:mt-8 max-xsm:mt-4">
+    <div className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-mobile:px-2 max-sm:mt-8 max-xsm:mt-4">
       <div className="w-full flex max-w-[900px] flex-col ">
         <div className="border-b border-blue-950 pb-4 text-center text-3xl max-sm:text-2xl">
           <span>What it's all about.</span>
         </div>
 
-        <div className="w-full flex flex-col text-xl pt-4 gap-y-4  max-sm:text-lg">
+        <div className="w-full flex flex-col text-xl pt-4 gap-y-4  max-sm:text-lg max-mobile:px-2">
           <p>
             This is not a conventional summary of works produced over a period
             of time by an artist, but rather a selection of my work, expanded
@@ -40,6 +40,12 @@ const About = () => {
             motivation or inspiration, however, is often the same, and all the
             works are connected by a common thread rooted in a shared set of
             ideas and themes.
+            <br />
+            Each cluster is labeled with a cluster name, A, B, or C, that you
+            can find in the titlebar of each painting.
+            <br />
+            Cluster A covers the period from 2014 to 2018, Cluster B from 2007
+            to 2013, and Cluster C from 1994 to 2006.
           </p>
 
           <p className="text-sm text-center mt-8">

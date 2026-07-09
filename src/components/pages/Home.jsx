@@ -7,6 +7,7 @@ import AboutMtg from "../AboutMtg";
 function RenderContent({ data: items }) {
   return items.map((item, index) => {
     const { type, ...props } = item;
+    console.log("Properties:", props);
     const Component = registry[type];
 
     if (!Component) {

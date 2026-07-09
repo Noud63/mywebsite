@@ -7,7 +7,7 @@ import Discoball from "../Discoball";
 const IntroSection = () => {
   return (
     
-      <div className="contentBody bg-white flex flex-col">
+      <div className="flex flex-col">
         
         <Intro />
         <ArrowsAndDiscoball />

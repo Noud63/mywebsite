@@ -456,6 +456,43 @@
     "image": "/images/discoballpara.png"
   },
   {
+    "id": "theexpansionoftheuniverse",
+    "type": "painting",
+    "title": "The Expansion of the Universe II",
+    "title_long": "",
+    "image": "/images/teotu2content.jpg",
+    "technique": "Acrylic on canvas",
+    "size": "250 x 150cm",
+    "year": "2014",
+     "cluster": "Cluster-A",
+    "bgstyle": "bg-black",
+    "thumbs": [{
+        "image": "/images/thumbnails/teotu2detail1.jpg",
+        "full": "/images/thumbnails/teotu2detail1big.jpg",
+        "detail": "Detail-1"
+      },
+      {
+        "image": "/images/thumbnails/teotu2detail2.jpg",
+        "full": "/images/thumbnails/teotu2detail2big.jpg",
+        "detail": "Detail-2"
+      },
+      {
+         "image": "/images/thumbnails/teotu2detail3.jpg",
+        "full": "/images/thumbnails/teotu2detail3big.jpg",
+        "detail": "Detail-3"
+      },
+      {
+         "image": "/images/thumbnails/teotu2.jpg",
+        "full": "/images/thumbnails/teotu2fullsize.jpg",
+        "detail": "Full-size"
+      }]
+  },
+  {
+    "id": "discoball_17",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "mindthegap_black",
     "type": "painting",
     "title": "Mind the Gap",
@@ -490,7 +527,7 @@
     ]
   },
   {
-    "id": "discoball_17",
+    "id": "discoball_18",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -502,7 +539,7 @@
     "url": "https://mcluhangalaxy.wordpress.com/2011/12/08/andy-wharhol-marshall-mcluhan-the-artist-the-visionary/"
   },
   {
-    "id": "discoball_18",
+    "id": "discoball_19",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -541,7 +578,7 @@
     ]
   },
   {
-    "id": "discoball_19",
+    "id": "discoball_20",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -555,7 +592,7 @@
     "type": "about"
   },
   {
-    "id": "discoball_20",
+    "id": "discoball_21",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -594,7 +631,7 @@
     ]
   },
   {
-    "id": "discoball_21",
+    "id": "discoball_22",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -604,7 +641,7 @@
     "image": "/images/mindthegap_overview_2.jpg"
   },
   {
-    "id": "discoball_21",
+    "id": "discoball_23",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -618,7 +655,7 @@
   "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
   },
   {
-    "id": "discoball_22",
+    "id": "discoball_24",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -630,7 +667,7 @@
     "url": "https://streamlinepublishing.com/inside-art/art-is-not-what-you-see-but-what-you-make-others-see/"
   },
   {
-    "id": "discoball_23",
+    "id": "discoball_25",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -669,7 +706,7 @@
     ]
   },
   {
-    "id": "discoball_24",
+    "id": "discoball_26",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -682,7 +719,7 @@
     "year": "2019"
   },
   {
-    "id": "discoball_25",
+    "id": "discoball_27",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -692,7 +729,7 @@
     "image": "/images/mindthegapblackoverview.jpg"
   },
   {
-    "id": "discoball_26",
+    "id": "discoball_28",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -704,7 +741,7 @@
     "url": "https://www.egon-schiele.com"
   },
   {
-    "id": "discoball_27",
+    "id": "discoball_29",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

@@ -7,7 +7,7 @@ import Discoball from "../Discoball";
 const IntroSection = () => {
   return (
     
-      <div className="flex flex-col">
+      <div className="flex flex-col ">
         
         <Intro />
         <ArrowsAndDiscoball />

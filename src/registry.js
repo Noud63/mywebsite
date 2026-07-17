@@ -8,8 +8,10 @@ import DamienHirst from "./components/DamienHirst";
 import Magritte from "./components/Magritte";
 import Duchamp from "./components/Duchamp";
 import Cattelan from "./components/Cattelan";
+import Cluster from "./components/Cluster";
 
 export const registry = {
+  cluster: Cluster,
   painting: Painting,
   quote: Quote,
   discoball: Discoball,

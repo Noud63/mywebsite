@@ -4,7 +4,7 @@ const Magritte = ({ image, name, title, year }) => {
   return (
     <div className="my-4 flex w-full h-auto justify-between flex-col text-[#353535] max-sm:px-2" >
 
-      <div className="w-full flex-col justify-between bg-[#f1e2b9] text-black pt-4">
+      <div className="w-full flex-col justify-between bg-[#f1e2b9] text-black pt-6 pb-4">
         <div className="flex flex-col pb-4 px-4">
           <span
             className="
@@ -52,7 +52,6 @@ const Magritte = ({ image, name, title, year }) => {
         </article>
       </div>
 
-      {/* Images */}
     </div>
   );
 };

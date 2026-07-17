@@ -44,8 +44,8 @@ const About = () => {
             Each cluster is labeled with a cluster name, A, B, or C, that you
             can find in the titlebar of each painting.
             <br />
-            Cluster A covers the period from 2014 to 2018, Cluster B from 2007
-            to 2013, and Cluster C from 1994 to 2006.
+            Cluster A covers the period from 2012 to 2018, Cluster B from 2007
+            to 2011, and Cluster C from 1994 to 2006.
           </p>
 
           <p className="text-sm text-center mt-8">

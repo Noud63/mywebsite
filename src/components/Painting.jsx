@@ -17,7 +17,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
     <div
       className={` max-xsm:mx-2 max-sm:pb-0 my-4 ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
     >
-      <div className="flex justify-between items-center text-blue-950 font-normal tracking-wider text-2xl font-serif py-3 border-t border-b border-blue-950 max-sm:text-xl">
+      <div className="flex justify-between items-center text-blue-950 font-normal px-4 tracking-wider text-2xl font-serif py-3 border-t border-b border-blue-950 max-sm:text-xl max-xsm:px-0">
         {cluster && (
           <div className="w-18 text-[14px]">{cluster}</div>
         )}
@@ -46,7 +46,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
           />
         </div>
       </div>
-      {thumbs.length > 0 && (
+      {thumbs.length > 1 ? (
         <div className="w-full grid grid-cols-4 max-md:grid-cols-2 gap-4 pt-6 pb-6 max-sm:pb-4">
           {thumbs.map((painting, index) => {
             return (
@@ -72,7 +72,25 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
             );
           })}
         </div>
-      )}
+      ) : (<div
+                className="w-full flex items-center justify-center flex-col cursor-pointer overflow-clip my-6"
+                key={index}
+                onClick={() => {
+                  setIndex(index);
+                  setOpen(true);
+                }}
+              >
+                <img
+                  src={thumbs[0]?.image}
+                  className="w-[200px] h-auto object-cover detail max-xsm:w-[120px] "
+                  alt="noud van dun"
+                />
+                <div
+                  className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
+                >
+                  {thumbs[0]?.detail}
+                </div>
+              </div>)}
       <Lightbox
         open={open}
         close={() => setOpen(false)}

@@ -1,5 +1,15 @@
 [
   {
+     "id": "cluster-A",
+    "type": "cluster",
+    "title": ["Cluster - A", "(2012 - 2018)"]
+  },
+  {
+    "id": "discoball_0",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "disco",
     "type": "painting",
     "title": "D.I.S.C.O",
@@ -493,6 +503,16 @@
     "image": "/images/discoballpara.png"
   },
   {
+     "id": "cluster-B",
+    "type": "cluster",
+    "title": ["Cluster - B", "(2007 - 2011)"]
+  },
+  {
+    "id": "discoball_17",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "mindthegap_black",
     "type": "painting",
     "title": "Mind the Gap",
@@ -741,7 +761,84 @@
     "url": "https://www.egon-schiele.com"
   },
   {
+     "id": "cluster-C",
+    "type": "cluster",
+    "title": ["Cluster - C", "(1996 - 2006)"]
+  },
+  {
     "id": "discoball_29",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "firstcontact_1",
+    "type": "painting",
+    "title": "First Contact",
+    "title_long": "",
+    "image": "/images/firstcontact_1_content.jpg",
+    "technique": "Acrylic, velcro, photo, charcoal on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/firstcontactbigfoot_small.jpg",
+        "full": "/images/thumbnails/firstcontactbigfoot_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+   {
+    "id": "discoball_30",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "crimescene",
+    "type": "painting",
+    "title": "Crime Scene",
+    "title_long": "",
+    "image": "/images/crimescene.jpg",
+    "technique": "Acrylic, velcro, charcoal on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/crimescene_small.jpg",
+        "full": "/images/thumbnails/crimescene_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+   {
+    "id": "discoball_31",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "littleboyandthefatman",
+    "type": "painting",
+    "title": "Littleboy & the Fatman",
+    "title_long": "",
+    "image": "/images/littleboy.jpg",
+    "technique": "Acrylic, velcro, photo, on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/littleboy_small.jpg",
+        "full": "/images/thumbnails/littleboy_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_31",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

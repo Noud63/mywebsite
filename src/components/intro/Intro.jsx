@@ -2,7 +2,7 @@ import React from "react";
 
 const Intro = () => {
   return (
-    <div className="flex flex-col text-xl text-blue-950 mb-4 max-lg:border-none max-mobile:px-2 max-sm:text-lg">
+    <div className="flex flex-col text-xl text-blue-950  max-lg:border-none max-mobile:px-2 max-sm:text-lg">
       <div className="flex flex-row max-lg:flex-col">
         <div className="border-r border-b border-blue-950 p-4 w-[50%] max-lg:w-full max-lg:border-r-0 max-mobile:px-2">
           <span className="font-semibold">Art: </span> refers to the theory,

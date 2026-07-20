@@ -775,7 +775,7 @@
     "type": "painting",
     "title": "First Contact",
     "title_long": "",
-    "image": "/images/firstcontact_1_content.jpg",
+    "image": "/images/firstcontact_bigfoot_content.jpg",
     "technique": "Acrylic, velcro, photo, charcoal on canvas",
     "size": "170 x 270cm",
     "year": "2003",
@@ -812,6 +812,11 @@
         "detail": "full-size"
       }
     ]
+  },
+  {
+    "id": "overview_4",
+    "type": "overview",
+    "image": "/images/firstcontactbigfoot_crimescene_overview.jpg"
   },
    {
     "id": "discoball_31",

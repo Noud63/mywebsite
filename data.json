@@ -814,12 +814,17 @@
     ]
   },
   {
+    "id": "discoball_31",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "overview_4",
     "type": "overview",
     "image": "/images/firstcontactbigfoot_crimescene_overview.jpg"
   },
    {
-    "id": "discoball_31",
+    "id": "discoball_32",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -846,5 +851,24 @@
     "id": "discoball_31",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "twijfelachtigetriomf",
+    "type": "painting",
+    "title": "(FC)Twijfelachtige Triomf",
+    "title_long": "",
+    "image": "/images/thumbnails/twijfelachtigetriomf_fullsize.jpg",
+    "technique": "Acrylic, charcaol on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/twijfelachtigetriomf_small.jpg",
+        "full": "/images/thumbnails/twijfelachtigetriomf_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
   }
 ]

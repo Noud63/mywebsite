@@ -2,6 +2,7 @@
   {
      "id": "cluster-A",
     "type": "cluster",
+    "style": "bg-gradient-to-r from-black via-slate-700 to-black",
     "title": ["Cluster - A", "(2012 - 2018)"]
   },
   {
@@ -406,7 +407,7 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "overview_2",
+    "id": "overview_3",
     "type": "overview",
     "image": "/images/enigmadiscooverview.jpg"
   },
@@ -468,7 +469,7 @@
   {
     "id": "theexpansionoftheuniverse",
     "type": "painting",
-    "title": "The Expansion of the Universe II",
+    "title": "The Expansion of the Universe",
     "title_long": "",
     "image": "/images/teotu2content.jpg",
     "technique": "Acrylic on canvas",
@@ -505,6 +506,7 @@
   {
      "id": "cluster-B",
     "type": "cluster",
+     "style": "bg-gradient-to-r from-black via-zinc-600 to-black",
     "title": ["Cluster - B", "(2007 - 2011)"]
   },
   {
@@ -603,7 +605,7 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "overview_3",
+    "id": "overview_4",
     "type": "overview",
     "image": "/images/mindthegap_overview.jpg"
   },
@@ -656,7 +658,7 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "overview_3",
+    "id": "overview_5",
     "type": "overview",
     "image": "/images/mindthegap_overview_2.jpg"
   },
@@ -763,6 +765,7 @@
   {
      "id": "cluster-C",
     "type": "cluster",
+      "style": "bg-gradient-to-r from-black via-stone-600 to-black",
     "title": ["Cluster - C", "(1996 - 2006)"]
   },
   {
@@ -819,7 +822,7 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "overview_4",
+    "id": "overview_6",
     "type": "overview",
     "image": "/images/firstcontactbigfoot_crimescene_overview.jpg"
   },
@@ -870,5 +873,20 @@
         "detail": "full-size"
       }
     ]
+  },
+   {
+    "id": "discoball_26",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "overview_7",
+    "type": "overview",
+    "image": "/images/twijfelachtigetriomf_mistyrain69_overview.jpg"
+  },
+   {
+    "id": "discoball_27",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

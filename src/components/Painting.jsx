@@ -15,15 +15,21 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
 
   return (
     <div
-      className={` max-xsm:mx-2 max-sm:pb-0 my-4 ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
+      className={`max-mobile:mx-2 max-sm:pb-0 my-4 ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
     >
-      <div className="flex justify-between items-center text-blue-950 font-normal px-4 tracking-wider text-2xl font-serif py-3 border-t border-b border-blue-950 max-sm:text-xl max-xsm:px-0">
+      <div className="flex flex-col gap-1 justify-between items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
         {cluster && (
-          <div className="w-18 text-[14px]">{cluster}</div>
+          <div className="w-full flex justify-start px-2">
+            <div className="flex justify-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">{cluster}</div>
+            </div>
         )}
-        {id !== "taxonomy" ? title : title.slice(0, 8)}
 
-        <div className="w-18 text-[14px] flex justify-end ">{year}</div>
+        <div className="w-full flex items-center flex-row justify-between text-2xl max-md:text-xl px-2 max-xxsm:text-lg">
+<span className="">{id !== "taxonomy" ? title : title.slice(0, 8)}</span>
+
+        <span className="w-10 flex justify-end">{year}</span>
+        </div>
+        
       </div>
       <div className="bg-white flex justify-center items-center relative mt-4">
         <div className="w-full h-auto relative">

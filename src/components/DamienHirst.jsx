@@ -12,7 +12,7 @@ const DamienHirst = ({ image, name, title, year }) => {
         </span>
       </div>
       <div className="w-full h-auto ">
-        <img src={image} alt="" />
+        <img src={image} alt="" loading="lazy"/>
       </div>
       <div className="flex flex-col text-white px-16 text-xl gap-y-4 max-sm:text-lg max-sm:px-6">
         <p>

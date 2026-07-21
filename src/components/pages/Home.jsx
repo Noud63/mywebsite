@@ -2,12 +2,11 @@ import { useState, useEffect } from "react";
 import { registry } from "../../registry";
 import data from "../../../data.json";
 import IntroSection from "../intro/IntroSection";
-import AboutMtg from "../AboutMtg";
 
 function RenderContent({ data: items }) {
   return items.map((item, index) => {
     const { type, ...props } = item;
-    console.log("Properties:", props);
+    // console.log("Properties:", props);
     const Component = registry[type];
 
     if (!Component) {
@@ -19,8 +18,18 @@ function RenderContent({ data: items }) {
   });
 }
 
+// const PAGE_SIZE = 20;
+
 export default function Home() {
+  // const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [showScrollButton, setShowScrollButton] = useState(false);
+
+  // const visibleItems = data.slice(0, visibleCount); 
+  // const hasMore = visibleCount < data.length;
+
+  // function loadMore() {
+  //   setVisibleCount((prev) => Math.min(prev + PAGE_SIZE, data.length));
+  // }
 
   useEffect(() => {
     const handleScrollVisibility = () => {
@@ -45,6 +54,18 @@ export default function Home() {
         <div className="bg-white flex flex-col max-xsm:px-0">
           <IntroSection />
           <RenderContent data={data} />
+
+          {/* {hasMore && (
+            <div className="flex justify-center my-8">
+              <button
+                type="button"
+                onClick={loadMore}
+                className="px-6 py-3 border-2 border-[#b09a8d] rounded-full cursor-pointer hover:bg-[#b09a8d]/10"
+              >
+                Load more ({data.length - visibleCount} remaining)
+              </button>
+            </div>
+          )} */}
         </div>
       </div>
       {showScrollButton && (

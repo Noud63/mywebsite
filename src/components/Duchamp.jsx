@@ -8,7 +8,7 @@ const Duchamp = ({ image, url, name, year, title }) => {
         <span className="text-lg max-sm:text-sm">"{title}" {year}</span>
       </div>
       <div className="w-full bg-black">
-        <img src={image} alt="duchamp" />
+        <img src={image} alt="duchamp" loading="lazy"/>
       </div>
       <div className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
         <p>

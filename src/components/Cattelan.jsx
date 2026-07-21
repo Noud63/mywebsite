@@ -46,6 +46,7 @@ const Cattelan = ({image, year, title, name}) => {
       src={image}
       alt="noud van dun"
       className="w-full h-auto"
+      loading="lazy"
     />
 
   </div>

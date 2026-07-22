@@ -45,7 +45,7 @@
     ]
   },
   {
-    "id": "discoball_0",
+    "id": "discoball_1",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -510,7 +510,7 @@
     "title": ["Cluster - B", "(2007 - 2011)"]
   },
   {
-    "id": "discoball_17",
+    "id": "discoball_18",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -549,7 +549,7 @@
     ]
   },
   {
-    "id": "discoball_18",
+    "id": "discoball_19",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -561,7 +561,7 @@
     "url": "https://mcluhangalaxy.wordpress.com/2011/12/08/andy-wharhol-marshall-mcluhan-the-artist-the-visionary/"
   },
   {
-    "id": "discoball_19",
+    "id": "discoball_20",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "id": "discoball_20",
+    "id": "discoball_21",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -614,7 +614,7 @@
     "type": "about"
   },
   {
-    "id": "discoball_21",
+    "id": "discoball_22",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -653,7 +653,7 @@
     ]
   },
   {
-    "id": "discoball_22",
+    "id": "discoball_23",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -663,7 +663,7 @@
     "image": "/images/mindthegap_overview_2.jpg"
   },
   {
-    "id": "discoball_23",
+    "id": "discoball_24",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -677,7 +677,7 @@
   "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
   },
   {
-    "id": "discoball_24",
+    "id": "discoball_25",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -689,7 +689,7 @@
     "url": "https://streamlinepublishing.com/inside-art/art-is-not-what-you-see-but-what-you-make-others-see/"
   },
   {
-    "id": "discoball_25",
+    "id": "discoball_26",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -728,7 +728,7 @@
     ]
   },
   {
-    "id": "discoball_26",
+    "id": "discoball_27",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -741,7 +741,7 @@
     "year": "2019"
   },
   {
-    "id": "discoball_27",
+    "id": "discoball_28",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -751,7 +751,7 @@
     "image": "/images/mindthegapblackoverview.jpg"
   },
   {
-    "id": "discoball_28",
+    "id": "discoball_29",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -769,7 +769,7 @@
     "title": ["Cluster - C", "(1996 - 2006)"]
   },
   {
-    "id": "discoball_29",
+    "id": "discoball_30",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -793,7 +793,7 @@
     ]
   },
    {
-    "id": "discoball_30",
+    "id": "discoball_31",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -802,7 +802,7 @@
     "type": "painting",
     "title": "Crime Scene",
     "title_long": "",
-    "image": "/images/crimescene.jpg",
+    "image": "/images/crimescene_content.jpg",
     "technique": "Acrylic, velcro, charcoal on canvas",
     "size": "170 x 270cm",
     "year": "2003",
@@ -817,7 +817,19 @@
     ]
   },
   {
-    "id": "discoball_31",
+    "id": "discoball_32",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_7",
+    "type": "quote",
+    "text": "For artists, the art market is like the weather. It happens to you.",
+    "name": "Amy Cappellazzo, Sotheby's",
+    "url": "https://www.artbasel.com/stories/art-world-powerhouse-amy-cappellazzo-shares-the-artists-that-caught-her-eye"
+  },
+  {
+    "id": "discoball_33",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -827,7 +839,7 @@
     "image": "/images/firstcontactbigfoot_crimescene_overview.jpg"
   },
    {
-    "id": "discoball_32",
+    "id": "discoball_34",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -851,7 +863,7 @@
     ]
   },
   {
-    "id": "discoball_31",
+    "id": "discoball_35",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -875,7 +887,19 @@
     ]
   },
    {
-    "id": "discoball_26",
+    "id": "discoball_36",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_8",
+    "type": "quote",
+    "text": "If art really changed things, it would be illegal.",
+    "name": "Unknown author"
+    
+  },
+  {
+    "id": "discoball_37",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -885,7 +909,18 @@
     "image": "/images/twijfelachtigetriomf_mistyrain69_overview.jpg"
   },
    {
-    "id": "discoball_27",
+    "id": "discoball_38",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_8",
+    "type": "quote",
+    "text": "I am not interested in the academic status of what I am doing, because my problem is my own transformation.",
+    "name": "Keith Haring"
+  },
+  {
+    "id": "discoball_38",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

@@ -250,7 +250,7 @@
   {
     "id": "overview_2",
     "type": "overview",
-    "image": "/images/hotel_taxonomy.png"
+    "image": "/images/hotel_taxonomy_overview.jpg"
   },
   {
     "id": "discoball_8",
@@ -857,13 +857,23 @@
     "thumbs": [
       {
         "image": "/images/thumbnails/littleboy_small.jpg",
-        "full": "/images/thumbnails/littleboy_fullsize.jpg",
+        "full": "/images/thumbnails/littleboyandthefatman_fullsize.jpg",
         "detail": "full-size"
       }
     ]
   },
   {
     "id": "discoball_35",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+   {
+    "id": "overview_7",
+    "type": "overview",
+    "image": "/images/littleboyandthefatman_overview.jpg"
+  },
+  {
+    "id": "discoball_36",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -887,7 +897,7 @@
     ]
   },
    {
-    "id": "discoball_36",
+    "id": "discoball_37",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -899,17 +909,17 @@
     
   },
   {
-    "id": "discoball_37",
+    "id": "discoball_38",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "overview_7",
+    "id": "overview_8",
     "type": "overview",
     "image": "/images/twijfelachtigetriomf_mistyrain69_overview.jpg"
   },
    {
-    "id": "discoball_38",
+    "id": "discoball_39",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -920,7 +930,7 @@
     "name": "Keith Haring"
   },
   {
-    "id": "discoball_38",
+    "id": "discoball_40",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

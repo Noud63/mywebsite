@@ -41,8 +41,7 @@ const About = () => {
             works are connected by a common thread rooted in a shared set of
             ideas and themes.
             <br />
-            Each cluster is labeled with a cluster name, A, B, or C, that you
-            can find in the titlebar of each painting.
+            Each cluster is labeled A, B, or C, as indicated in the title bar of each painting.
             <br />
             Cluster A covers the period from 2012 to 2018, Cluster B from 2007
             to 2011, and Cluster C from 1994 to 2006.
@@ -57,7 +56,7 @@ const About = () => {
       <div className="mt-20">
         <Link
           to="/"
-          className="cursor-pointer border border-blue-950 px-10 py-2 rounded-full bg-blue-950 text-white text-xl tracking-wide max-sm:py-1 max-sm:px-8"
+          className="cursor-pointer border border-blue-950 px-10 py-2 rounded-full bg-gradient-to-r from-black via-slate-500 to-black text-white text-xl tracking-wide max-sm:py-1 max-sm:px-8"
         >
           Back
         </Link>

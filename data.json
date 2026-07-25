@@ -986,5 +986,15 @@
     "id": "discoball_43",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+   {
+    "id": "overview_8",
+    "type": "overview",
+    "image": "/images/theunguidedtour_news_overview.jpg"
+  },
+  {
+    "id": "discoball_44",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

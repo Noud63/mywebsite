@@ -938,5 +938,53 @@
     "id": "discoball_41",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "mistyrain69",
+    "type": "painting",
+    "title": "Misty Rain 69",
+    "title_long": "",
+    "image": "/images/mistyrain69_fullsize.jpg",
+    "technique": "Acrylic, charcaol on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/mistyrain69_small.jpg",
+        "full": "/images/thumbnails/mistyrain69_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_42",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "theunguidedtour",
+    "type": "painting",
+    "title": "The Unguided Tour",
+    "title_long": "",
+    "image": "/images/theunguidedtour_content.jpg",
+    "technique": "Acrylic, charcaol on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/theunguidedtour_small.jpg",
+        "full": "/images/thumbnails/theunguidedtour_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_43",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

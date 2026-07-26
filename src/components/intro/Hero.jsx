@@ -7,8 +7,8 @@ const Hero = () => {
   const path = location.pathname;
 
   return (
-    <div className="flex max-xsm:px-0 relative">
-      <img src="/images/questioneverything_2.png" alt="noud van dun" className="" />
+    <div className="flex max-xsm:px-0 relative overflow-hidden justify-center">
+      <img src="/images/questioneverything_2.png" alt="noud van dun" className="w-full max-xsm:w-[130%] max-xsm:max-w-none" />
       <div className="flex justify-between absolute bottom-5 right-5 gap-2 max-sm:bottom-3 max-sm:right-3">
           <Link to={path === "/about" ? "/" : "/about"}>
         {" "}

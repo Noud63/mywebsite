@@ -853,7 +853,7 @@
     "type": "painting",
     "title": "Littleboy & the Fatman",
     "title_long": "",
-    "image": "/images/littleboy.jpg",
+    "image": "/images/littleboyandthefatman_content.jpg",
     "technique": "Acrylic, velcro, photo, on canvas",
     "size": "170 x 270cm",
     "year": "2003",
@@ -945,7 +945,7 @@
     "title": "Misty Rain 69",
     "title_long": "",
     "image": "/images/mistyrain_content.jpg",
-    "technique": "Acrylic, charcaol on canvas",
+    "technique": "Acrylic, velcro, charcoal, photo on canvas",
     "size": "170 x 270cm",
     "year": "2003",
        "cluster": "Cluster-C",
@@ -994,6 +994,17 @@
   },
   {
     "id": "discoball_44",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_9",
+    "type": "quote",
+    "text": "This so-called contemporary art is not a form, but a philosophy of society.",
+    "name": "Ai Weiwei"
+  },
+  {
+    "id": "discoball_45",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

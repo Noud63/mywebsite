@@ -41,10 +41,68 @@ const About = () => {
             works are connected by a common thread rooted in a shared set of
             ideas and themes.
             <br />
-            Each cluster is labeled A, B, or C, as indicated in the title bar of each painting.
+            Each cluster is labeled A, B, or C, as indicated in the title bar of
+            each painting.
             <br />
             Cluster A covers the period from 2012 to 2018, Cluster B from 2007
             to 2011, and Cluster C from 1994 to 2006.
+          </p>
+
+          <p>
+            Finally, a highly compressed résumé of my educational background.
+            <br />
+            I studied art at the Hogeschool voor de Kunsten in Maastricht from
+            1984 to 1989.
+            <br />
+            After that I studied at the Jan van Eyck Academie, also in
+            Maastricht, for only one year fom 1989 to 1990.
+            <br />
+            Subsequently I was admitted at the "Ateliers 63" wich was located in
+            Haarlem at the time and is now located in Amsterdam under the name
+            "De Ateliers".
+            <br />
+            The latter two are so-called second-phase postgraduate art
+            programmes that focus on the further artistic development of artists
+            and their preparation for an independent professional practice.
+            <br />
+            After two years at De Ateliers, from 1990 to 1992, I began my
+            professional career as an independent artist in Haarlem.
+            <br />
+            After five years in Haarlem I relocated to Amsterdam in 1997.
+            <br />
+            In 1992 I was awarded the "Van Bommel Van Dam Art Prize" and in 1995
+            I recieved the "Koninklijke Subsidie voor vrije Schilderkunst" art
+            prize.
+            <br />
+            In 1991, 1995, 1997, 1999, 2001, and 2008, I received grants from
+            the Mondriaan Fonds in recognition of my artistic practice.
+          </p>
+
+          <p>
+            In 2019, I started learning how to code and build web applications.
+            <br /> I find the combination of art and technology fascinating and
+            was eager to expand my skill set by exploring fields of knowledge
+            beyond the artistic realm.
+            <br />
+            If you are interested, you can view my tech portfolio here:{" "}
+            <a
+              href="https://appcollection.netlify.app/"
+              target="_blank"
+              rel="noreferrer noopener"
+              style={{ textDecoration: "underline" }}
+            >
+              https://appcollection.netlify.app
+            </a>
+            <br />
+            Here is an example of an art-related web application I built:{" "}
+            <a
+              href="https://artinamsterdam-nextjs.vercel.app/"
+              target="_blank"
+              rel="noreferrer noopener"
+              style={{ textDecoration: "underline" }}
+            >
+              https://artinamsterdam-nextjs.vercel.app/
+            </a>
           </p>
 
           <p className="text-sm text-center mt-8">

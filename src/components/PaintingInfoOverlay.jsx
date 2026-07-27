@@ -8,15 +8,18 @@ const PaintingInfoOverlay = ({ id, closeOverlay, open }) => {
   return (
     <div
       className={`overlay text-black flex flex-col justify-center items-center absolute inset-0 bg-neutral-300/80
-        transition-[transform, opacity] duration-500 ease-out ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-0 pointer-events-none"}`}
+        transition-[transform, opacity] duration-500 ease-out 
+        ${open ? "opacity-100 scale-100 pointer-events-auto" : "opacity-0 scale-0 pointer-events-none"}`}
       onClick={() => closeOverlay(false)}
     >
       <div
-        className="relative infobox w-[60%] h-[55%] flex justify-center flex-col items-center bg-linear-to-t from-neutral-300 to-white p-8 rounded-xl 
+        className="relative infobox w-[60%] h-[55%] flex justify-center flex-col items-center 
+        bg-linear-to-t from-neutral-300 to-white p-8 rounded-xl 
       max-lg:w-[90%] max-lg:h-[80%]  max-xsm:p-4 border-b-1 border-stone-500 max-sm:h-[90%] max-sm:w-[95%]"
       >
         <div className="flex flex-col items-center border-b border-black pb-2 mb-2">
-          <div className={`${id === "theexpansionoftheuniverse" ? "max-xsm:flex-col items-center": ""} w-full flex justify-center text-2xl font-normal border-b border-black mb-2 pb-2 max-xsm:text-xl`}>
+          <div className={`${id === "theexpansionoftheuniverse" ? "max-xsm:flex-col items-center": ""} 
+          w-full flex justify-center text-2xl font-normal border-b border-black mb-2 pb-2 max-xsm:text-xl`}>
             {painting?.title}
             <span className="ml-2 font-normal">({painting?.year})</span>
           </div>

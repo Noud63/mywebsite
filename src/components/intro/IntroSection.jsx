@@ -10,6 +10,8 @@ const IntroSection = () => {
       <div className="flex flex-col ">
         
         <Intro />
+
+       
         <ArrowsAndDiscoball />
       </div>
     

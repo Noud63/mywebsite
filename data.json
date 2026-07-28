@@ -1015,7 +1015,7 @@
     "title_long": "",
     "image": "/images/whitechristmas_content.jpg",
     "technique": "Charcaol, velcro on canvas",
-    "size": "170 x 270cm",
+    "size": "150 x 200cm",
     "year": "2003",
        "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
@@ -1026,5 +1026,21 @@
         "detail": "full-size"
       }
     ]
+  },
+  {
+    "id": "discoball_46",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_9",
+    "type": "quote",
+    "text": "No artist tolerates reality.",
+    "name": "Friedrich Nietzsche "
+  },
+  {
+    "id": "discoball_47",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

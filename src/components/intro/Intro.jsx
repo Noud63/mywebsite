@@ -50,6 +50,7 @@ const Intro = () => {
           understand an artwork's aesthetic, historical, or social context.
         </div>
       </div>
+  
     </div>
   );
 };

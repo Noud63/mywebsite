@@ -1007,5 +1007,24 @@
     "id": "discoball_45",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "whitechristmas",
+    "type": "painting",
+    "title": "White Christmas",
+    "title_long": "",
+    "image": "/images/whitechristmas_content.jpg",
+    "technique": "Charcaol, velcro on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/whitechristmas_small.jpg",
+        "full": "/images/thumbnails/whitechristmas_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
   }
 ]

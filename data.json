@@ -733,19 +733,6 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "cattelan",
-    "type": "cattelan",
-    "name": "Maurizio Cattelan",
-    "title": "Comedian",
-    "image": "/images/banana.jpg",
-    "year": "2019"
-  },
-  {
-    "id": "discoball_28",
-    "type": "discoball",
-    "image": "/images/discoballpara.png"
-  },
-  {
     "id": "overview_3",
     "type": "overview",
     "image": "/images/mindthegapblackoverview.jpg"
@@ -844,6 +831,19 @@
     "image": "/images/firstcontactbigfoot_crimescene_overview.jpg"
   },
    {
+    "id": "discoball_35",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "cattelan",
+    "type": "cattelan",
+    "name": "Maurizio Cattelan",
+    "title": "Comedian",
+    "image": "/images/banana.jpg",
+    "year": "2019"
+  },
+  {
     "id": "discoball_35",
     "type": "discoball",
     "image": "/images/discoballpara.png"

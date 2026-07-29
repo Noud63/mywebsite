@@ -2,7 +2,7 @@ import React from "react";
 
 const Duchamp = ({ image, url, name, year, title }) => {
   return (
-    <div className="my-4">
+    <div  className="max-mobile:px-2">
       <div className="flex flex-col text-center bg-black py-6 text-white">
         <span className="text-2xl max-sm:text-xl">{name}</span>
         <span className="text-lg max-sm:text-sm">"{title}" {year}</span>

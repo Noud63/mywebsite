@@ -2,7 +2,7 @@ import React from "react";
 
 const DamienHirst = ({ image, name, title, year }) => {
   return (
-    <div className="bg-black pb-14 my-4 max-mobile:mx-2">
+    <div className="bg-black pb-14 max-mobile:mx-2">
       <div className="flex flex-col items-center justify-center text-white leading-[1.6] p-[18px] max-sm:p-[12px] max-sm:p-0 border-b border-white mx-4 py-6">
         <span className="text-2xl font-bold text-white max-sm:text-xl">
           {name}

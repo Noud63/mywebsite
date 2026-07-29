@@ -15,7 +15,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
 
   return (
     <div
-      className={`max-mobile:mx-2 max-sm:pb-0 my-4 ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
+      className={`max-mobile:mx-2 max-sm:pb-0  ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
     >
       <div className="flex flex-col gap-1 justify-between items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
         {cluster && (

@@ -6,7 +6,7 @@ export default function AboutMtg() {
   const [language, setLanguage] = useState("en");
 
   return (
-    <div className="relative flex w-full flex-col items-center justify-center bg-slate-950 my-4 pb-2">
+    <div className="relative flex w-full flex-col items-center justify-center bg-slate-950 pb-2">
       {/* Header */}
       <div className="mt-4 flex w-full flex-col items-center justify-center text-2xl font-light text-white mt-8">
         About "Mind the Gap"

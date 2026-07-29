@@ -2,7 +2,7 @@ import React from "react";
 
 const Banksy = ({image, title, name, year}) => {
   return (
-    <div className="max-xsm:px-2 my-4">
+    <div  className="max-mobile:px-2">
       {/* Header */}
       <div
         className="

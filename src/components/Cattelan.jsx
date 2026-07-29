@@ -2,13 +2,12 @@ import React from 'react'
 
 const Cattelan = ({image, year, title, name}) => {
   return (
-    <div className="img-16">
+    <div className="max-mobile:px-2">
   
   {/* Header */}
   <div
     className="
       flex w-full flex-row items-center justify-center
-      my-4
     "
   >
     <div

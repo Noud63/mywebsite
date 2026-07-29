@@ -304,6 +304,11 @@
     "url": "https://en.wikipedia.org/wiki/Albert_Camus"
   },
   {
+    "id": "discoball_9",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "patchwork",
     "type": "painting",
     "title": "Patchwork",
@@ -608,6 +613,11 @@
     "id": "overview_4",
     "type": "overview",
     "image": "/images/mindthegap_overview.jpg"
+  },
+  {
+    "id": "discoball_21",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   },
   {
     "id": "aboutmtg",
@@ -984,6 +994,19 @@
   },
   {
     "id": "discoball_43",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+   {
+    "id": "pieromanzoni",
+    "type": "manzoni",
+    "name": "Piero Manzoni",
+    "title": "Merda D'Artista",
+    "image": "/images/pieromanzoni.jpg",
+    "year": "1961"
+  },
+  {
+    "id": "discoball_44",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },

@@ -9,8 +9,10 @@ import Magritte from "./components/Magritte";
 import Duchamp from "./components/Duchamp";
 import Cattelan from "./components/Cattelan";
 import Cluster from "./components/Cluster";
+import Manzoni from "./components/Manzoni";
 
 export const registry = {
+  manzoni: Manzoni,
   cluster: Cluster,
   painting: Painting,
   quote: Quote,

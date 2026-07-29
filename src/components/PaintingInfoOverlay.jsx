@@ -19,7 +19,7 @@ const PaintingInfoOverlay = ({ id, closeOverlay, open }) => {
       >
         <div className="flex flex-col items-center border-b border-black pb-2 mb-2">
           <div className={`${id === "theexpansionoftheuniverse" ? "max-xsm:flex-col items-center": ""} 
-          w-full flex justify-center text-2xl font-normal border-b border-black mb-2 pb-2 max-xsm:text-xl`}>
+          w-full flex justify-center text-2xl font-normal border-b border-black mb-2 pb-2 max-xsm:text-lg`}>
             {painting?.title}
             <span className="ml-2 font-normal">({painting?.year})</span>
           </div>

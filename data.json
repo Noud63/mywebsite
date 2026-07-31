@@ -1,6 +1,6 @@
 [
   {
-     "id": "cluster-A",
+    "id": "cluster-A",
     "type": "cluster",
     "style": "bg-gradient-to-r from-black via-slate-700 to-black",
     "title": ["Cluster - A", "(2012 - 2018)"]
@@ -70,7 +70,7 @@
     "technique": "Acrylic on canvas",
     "size": "110 x 190cm",
     "year": "2016",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-red-950",
     "thumbs": [
       {
@@ -109,7 +109,7 @@
     "technique": "Acrylic on canvas",
     "size": "140 x 270cm",
     "year": "2016",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-black",
     "thumbs": [
       {
@@ -178,7 +178,7 @@
     "technique": "Acrylic on canvas",
     "size": "170 x 270cm",
     "year": "2018",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-cyan-900",
     "thumbs": [
       {
@@ -217,7 +217,7 @@
     "technique": "Acrylic on canvas",
     "size": "180 x 200cm",
     "year": "2017",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-olive-600",
     "thumbs": [
       {
@@ -266,7 +266,7 @@
     "technique": "Acrylic on canvas",
     "size": "200 x 165cm",
     "year": "2016",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-olive-600",
     "thumbs": [
       {
@@ -317,7 +317,7 @@
     "technique": "Acrylic on canvas",
     "size": "200 x 270cm",
     "year": "2012",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -369,7 +369,7 @@
     "technique": "Acrylic on canvas",
     "size": "140 x 240cm",
     "year": "2014",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -434,7 +434,7 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "cow",
     "type": "painting",
     "title": "C.o.W.",
@@ -443,9 +443,10 @@
     "technique": "Acrylic on canvas",
     "size": "140 x 270cm",
     "year": "2012",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-black",
-    "thumbs": [{
+    "thumbs": [
+      {
         "image": "/images/thumbnails/cowdetail1.jpg",
         "full": "/images/thumbnails/cowdetail1big.jpg",
         "detail": "Detail-1"
@@ -464,7 +465,8 @@
         "image": "/images/thumbnails/cowfull.jpg",
         "full": "/images/thumbnails/cowfullsize.jpg",
         "detail": "Full-size"
-      }]
+      }
+    ]
   },
   {
     "id": "discoball_16",
@@ -480,9 +482,10 @@
     "technique": "Acrylic on canvas",
     "size": "250 x 150cm",
     "year": "2014",
-     "cluster": "Cluster-A",
+    "cluster": "Cluster-A",
     "bgstyle": "bg-black",
-    "thumbs": [{
+    "thumbs": [
+      {
         "image": "/images/thumbnails/teotu2detail1.jpg",
         "full": "/images/thumbnails/teotu2detail1big.jpg",
         "detail": "Detail-1"
@@ -493,15 +496,16 @@
         "detail": "Detail-2"
       },
       {
-         "image": "/images/thumbnails/teotu2detail3.jpg",
+        "image": "/images/thumbnails/teotu2detail3.jpg",
         "full": "/images/thumbnails/teotu2detail3big.jpg",
         "detail": "Detail-3"
       },
       {
-         "image": "/images/thumbnails/teotu2.jpg",
+        "image": "/images/thumbnails/teotu2.jpg",
         "full": "/images/thumbnails/teotu2fullsize.jpg",
         "detail": "Full-size"
-      }]
+      }
+    ]
   },
   {
     "id": "discoball_17",
@@ -509,9 +513,9 @@
     "image": "/images/discoballpara.png"
   },
   {
-     "id": "cluster-B",
+    "id": "cluster-B",
     "type": "cluster",
-     "style": "bg-gradient-to-r from-black via-zinc-600 to-black",
+    "style": "bg-gradient-to-r from-black via-zinc-600 to-black",
     "title": ["Cluster - B", "(2007 - 2011)"]
   },
   {
@@ -528,7 +532,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "150 x 250cm",
     "year": "2012",
-     "cluster": "Cluster-B",
+    "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -579,7 +583,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "200 x 270cm",
     "year": "2014",
-       "cluster": "Cluster-B",
+    "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -637,7 +641,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "180 x 160cm",
     "year": "2008",
-      "cluster": "Cluster-B",
+    "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -684,14 +688,14 @@
     "type": "duchamp",
     "title": "Fountain",
     "image": "/images/duchamp.jpg",
-  "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
+    "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
   },
   {
     "id": "discoball_25",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "quote_6",
     "type": "quote",
     "text": "Art is not what you see but what you make others see.",
@@ -703,7 +707,7 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "mindthegap",
     "type": "painting",
     "title": "Mind the Gap",
@@ -712,7 +716,7 @@
     "technique": "Acrylic, charcoal on canvas",
     "size": "90 x 135cm",
     "year": "2007",
-       "cluster": "Cluster-B",
+    "cluster": "Cluster-B",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -765,9 +769,9 @@
     "image": "/images/discoballpara.png"
   },
   {
-     "id": "cluster-C",
+    "id": "cluster-C",
     "type": "cluster",
-      "style": "bg-gradient-to-r from-black via-stone-600 to-black",
+    "style": "bg-gradient-to-r from-black via-stone-600 to-black",
     "title": ["Cluster - C", "(1996 - 2006)"]
   },
   {
@@ -784,7 +788,7 @@
     "technique": "Acrylic, velcro, photo, charcoal on canvas",
     "size": "170 x 270cm",
     "year": "2001",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -794,7 +798,7 @@
       }
     ]
   },
-   {
+  {
     "id": "discoball_32",
     "type": "discoball",
     "image": "/images/discoballpara.png"
@@ -808,7 +812,7 @@
     "technique": "Acrylic, velcro, charcoal on canvas",
     "size": "170 x 270cm",
     "year": "2003",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -840,7 +844,7 @@
     "type": "overview",
     "image": "/images/firstcontactbigfoot_crimescene_overview.jpg"
   },
-   {
+  {
     "id": "discoball_35",
     "type": "discoball",
     "image": "/images/discoballpara.png"
@@ -867,7 +871,7 @@
     "technique": "Acrylic, velcro, photo, on canvas",
     "size": "170 x 270cm",
     "year": "2003",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -882,7 +886,7 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "overview_7",
     "type": "overview",
     "image": "/images/littleboyandthefatman_overview.jpg"
@@ -901,7 +905,7 @@
     "technique": "Acrylic, charcaol on canvas",
     "size": "170 x 270cm",
     "year": "2003",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -911,7 +915,7 @@
       }
     ]
   },
-   {
+  {
     "id": "discoball_38",
     "type": "discoball",
     "image": "/images/discoballpara.png"
@@ -921,7 +925,6 @@
     "type": "quote",
     "text": "If art really changed things, it would be illegal.",
     "name": "Unknown author"
-    
   },
   {
     "id": "discoball_39",
@@ -933,7 +936,7 @@
     "type": "overview",
     "image": "/images/twijfelachtigetriomf_mistyrain69_overview.jpg"
   },
-   {
+  {
     "id": "discoball_40",
     "type": "discoball",
     "image": "/images/discoballpara.png"
@@ -958,7 +961,7 @@
     "technique": "Acrylic, velcro, charcoal, photo on canvas",
     "size": "170 x 270cm",
     "year": "2002",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -982,7 +985,7 @@
     "technique": "Acrylic, charcaol on canvas",
     "size": "170 x 270cm",
     "year": "2003",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -997,7 +1000,7 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "pieromanzoni",
     "type": "manzoni",
     "name": "Piero Manzoni",
@@ -1010,7 +1013,7 @@
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "overview_8",
     "type": "overview",
     "image": "/images/theunguidedtour_news_overview.jpg"
@@ -1040,7 +1043,7 @@
     "technique": "Charcoal, velcro on canvas",
     "size": "150 x 200cm",
     "year": "2003",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -1075,7 +1078,7 @@
     "technique": "Charcoal, velcro, paper, print on canvas",
     "size": "170 x 270cm",
     "year": "2004",
-       "cluster": "Cluster-C",
+    "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
@@ -1106,6 +1109,23 @@
     "type": "quote",
     "text": "Many say an art dealer running a museum is a 'conflict of interest.'\nBut maybe the art world has lived an artificial or unintentional lie all of these years when it comes to conflicts of interest.",
     "name": "Jerry Saltz",
-     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
+    "url": "https://www.fantasticman.com/articles/jerry-saltz/"
+  },
+  {
+    "id": "discoball_48",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_11",
+    "type": "quote",
+    "text": "Art usually only makes the news in when the subject is money.",
+    "name": "Jerry Saltz",
+    "url": "https://www.fantasticman.com/articles/jerry-saltz/"
+  },
+  {
+    "id": "discoball_48",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

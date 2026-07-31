@@ -24,7 +24,7 @@ const About = () => {
           <p>
             In addition, I have included several works with similar intentions
             by renowned artists such as Maurizio Cattelan, Damien Hirst, Banksy,
-            and others. One could say it resembles{" "}
+            Bas Jan Ader and others. One could say it resembles{" "}
             <span className="italic">The Emperor’s New Clothes</span>, since
             Duchamp’s intellectual statement already encompassed it all. The
             boundaries had already been drawn — nothing fundamentally new — yet,

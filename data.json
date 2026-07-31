@@ -1089,5 +1089,23 @@
     "id": "discoball_48",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_10",
+    "type": "quote",
+    "text": "I have tried to do what is true and not ideal.",
+    "name": "Henri de Toulouse-Lautrec"
+  },
+  {
+    "id": "discoball_48",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_10",
+    "type": "quote",
+    "text": "Many say an art dealer running a museum is a 'conflict of interest.'\nBut maybe the art world has lived an artificial or unintentional lie all of these years when it comes to conflicts of interest.",
+    "name": "Jerry Saltz",
+     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   }
 ]

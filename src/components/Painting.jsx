@@ -80,7 +80,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
           })}
         </div>
       ) : (<div
-                className="w-full flex items-center justify-center flex-col cursor-pointer overflow-clip my-6"
+                className="w-full flex items-center justify-center flex-col cursor-pointer overflow-clip mt-8 mb-8 max-mobile:mb-4"
                 key={index}
                 onClick={() => {
                   setIndex(index);

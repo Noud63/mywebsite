@@ -783,7 +783,7 @@
     "image": "/images/firstcontact_bigfoot_content.jpg",
     "technique": "Acrylic, velcro, photo, charcoal on canvas",
     "size": "170 x 270cm",
-    "year": "2003",
+    "year": "2001",
        "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
@@ -957,7 +957,7 @@
     "image": "/images/mistyrain_content.jpg",
     "technique": "Acrylic, velcro, charcoal, photo on canvas",
     "size": "170 x 270cm",
-    "year": "2003",
+    "year": "2002",
        "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
@@ -1037,7 +1037,7 @@
     "title": "White Christmas",
     "title_long": "",
     "image": "/images/whitechristmas_content.jpg",
-    "technique": "Charcaol, velcro on canvas",
+    "technique": "Charcoal, velcro on canvas",
     "size": "150 x 200cm",
     "year": "2003",
        "cluster": "Cluster-C",
@@ -1063,6 +1063,30 @@
   },
   {
     "id": "discoball_47",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "corpusdelicti",
+    "type": "painting",
+    "title": "Corpus Delicti",
+    "title_long": "",
+    "image": "/images/corpusdelicti_content.jpg",
+    "technique": "Charcoal, velcro, paper, print on canvas",
+    "size": "170 x 270cm",
+    "year": "2004",
+       "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/corpusdelicti_small.jpg",
+        "full": "/images/thumbnails/corpusdelicti_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_48",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

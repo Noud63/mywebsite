@@ -158,6 +158,11 @@
     "year": "2007"
   },
   {
+    "id": "discoball_4",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "quote_2",
     "type": "quote",
     "text": "If at first, an idea is not absurd, then there is no hope for it!",
@@ -1127,5 +1132,24 @@
     "id": "discoball_48",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "thetexastheatre",
+    "type": "painting",
+    "title": "The Texas Theatre",
+    "title_long": "",
+    "image": "/images/thetexastheatre_content.jpg",
+    "technique": "Velcro, foam, print, acrylics on canvas",
+    "size": "170 x 270cm",
+    "year": "1999",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/thetexastheatre_small.jpg",
+        "full": "/images/thumbnails/thetexastheatre_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
   }
 ]

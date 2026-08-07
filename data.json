@@ -1105,7 +1105,31 @@
     "name": "Henri de Toulouse-Lautrec"
   },
   {
-    "id": "discoball_48",
+    "id": "discoball_49",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "news",
+    "type": "painting",
+    "title": "N.E.W.S.",
+    "title_long": "",
+    "image": "/images/news_content.jpg",
+    "technique": "Charcoal, velcro, acrylics on canvas",
+    "size": "170 x 270cm",
+    "year": "2003",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/news_small.jpg",
+        "full": "/images/thumbnails/news_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_50",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1117,7 +1141,7 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_48",
+    "id": "discoball_51",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1129,7 +1153,7 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_48",
+    "id": "discoball_52",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1140,7 +1164,7 @@
     "title_long": "",
     "image": "/images/thetexastheatre_content.jpg",
     "technique": "Velcro, foam, print, acrylics on canvas",
-    "size": "170 x 270cm",
+    "size": "140 x 240cm",
     "year": "1999",
     "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",

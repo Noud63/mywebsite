@@ -1141,18 +1141,6 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_51",
-    "type": "discoball",
-    "image": "/images/discoballpara.png"
-  },
-  {
-    "id": "quote_11",
-    "type": "quote",
-    "text": "Art usually only makes the news when the subject is money.",
-    "name": "Jerry Saltz",
-    "url": "https://www.fantasticman.com/articles/jerry-saltz/"
-  },
-  {
     "id": "discoball_52",
     "type": "discoball",
     "image": "/images/discoballpara.png"
@@ -1175,5 +1163,27 @@
         "detail": "full-size"
       }
     ]
+  },
+  {
+    "id": "discoball_51",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_11",
+    "type": "quote",
+    "text": "Art usually only makes the news when the subject is money.",
+    "name": "Jerry Saltz",
+    "url": "https://www.fantasticman.com/articles/jerry-saltz/"
+  },
+  {
+    "id": "discoball_51",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "overview_9",
+    "type": "overview",
+    "image": "/images/thetexastheatre_overview.jpg"
   }
 ]

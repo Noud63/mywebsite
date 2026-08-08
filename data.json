@@ -1185,5 +1185,10 @@
     "id": "overview_9",
     "type": "overview",
     "image": "/images/thetexastheatre_overview.jpg"
+  },
+  {
+    "id": "discoball_52",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

@@ -71,7 +71,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
                   loading="lazy"
                 />
                 <div
-                  className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
+                  className={`w-full max-w-[80px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
                 >
                   {painting.detail}
                 </div>

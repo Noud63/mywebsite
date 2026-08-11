@@ -25,22 +25,22 @@
       {
         "image": "/images/thumbnails/discodetail1.jpg",
         "full": "/images/thumbnails/discodetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/discodetail2.jpg",
         "full": "/images/thumbnails/discodetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/discodetail3.jpg",
         "full": "/images/thumbnails/discodetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/discofull.jpg",
         "full": "/images/thumbnails/discofullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -76,22 +76,22 @@
       {
         "image": "/images/thumbnails/ufodetail.jpg",
         "full": "/images/thumbnails/ufodetailbig.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/ufodetail2.jpg",
         "full": "/images/thumbnails/ufodetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/ufodetail3.jpg",
         "full": "/images/thumbnails/ufodetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/ufofull.jpg",
         "full": "/images/thumbnails/ufofullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -115,22 +115,22 @@
       {
         "image": "/images/thumbnails/enigmadetail1.jpg",
         "full": "/images/thumbnails/enigmadetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/enigmadetail2.jpg",
         "full": "/images/thumbnails/enigmadetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/enigmadetail3.jpg",
         "full": "/images/thumbnails/enigmadetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/enigmafull.jpg",
         "full": "/images/thumbnails/enigmafullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -189,22 +189,22 @@
       {
         "image": "/images/thumbnails/hoteldetail1.jpg",
         "full": "/images/thumbnails/hoteldetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/hoteldetail2.jpg",
         "full": "/images/thumbnails/hoteldetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/hoteldetail3.jpg",
         "full": "/images/thumbnails/hoteldetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/hotelfull.jpg",
         "full": "/images/thumbnails/hotelfullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -228,22 +228,22 @@
       {
         "image": "/images/thumbnails/taxonomydetail1.jpg",
         "full": "/images/thumbnails/taxonomydetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/taxonomydetail2.jpg",
         "full": "/images/thumbnails/taxonomydetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/taxonomydetail3.jpg",
         "full": "/images/thumbnails/taxonomydetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/taxonomyfull.jpg",
         "full": "/images/thumbnails/taxonomyfullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -277,22 +277,22 @@
       {
         "image": "/images/thumbnails/thepresentdetail1.jpg",
         "full": "/images/thumbnails/thepresentdetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/thepresentdetail2.jpg",
         "full": "/images/thumbnails/thepresentdetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/thepresentdetail3.jpg",
         "full": "/images/thumbnails/thepresentdetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/thepresentfull.jpg",
         "full": "/images/thumbnails/thepresentfullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -328,22 +328,22 @@
       {
         "image": "/images/thumbnails/patchworkdetail1.jpg",
         "full": "/images/thumbnails/patchworkdetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/patchworkdetail2.jpg",
         "full": "/images/thumbnails/patchworkdetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/patchworkdetail3.jpg",
         "full": "/images/thumbnails/patchworkdetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/patchworkfull.jpg",
         "full": "/images/thumbnails/patchworkfullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -380,22 +380,22 @@
       {
         "image": "/images/thumbnails/panoramadetail1.jpg",
         "full": "/images/thumbnails/panoramadetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/panoramadetail2.jpg",
         "full": "/images/thumbnails/panoramadetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/panoramadetail3.jpg",
         "full": "/images/thumbnails/panoramadetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/panoramafull.jpg",
         "full": "/images/thumbnails/panoramafullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -454,22 +454,22 @@
       {
         "image": "/images/thumbnails/cowdetail1.jpg",
         "full": "/images/thumbnails/cowdetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/cowdetail2.jpg",
         "full": "/images/thumbnails/cowdetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/cowdetail3.jpg",
         "full": "/images/thumbnails/cowdetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/cowfull.jpg",
         "full": "/images/thumbnails/cowfullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -493,22 +493,22 @@
       {
         "image": "/images/thumbnails/teotu2detail1.jpg",
         "full": "/images/thumbnails/teotu2detail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/teotu2detail2.jpg",
         "full": "/images/thumbnails/teotu2detail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/teotu2detail3.jpg",
         "full": "/images/thumbnails/teotu2detail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/teotu2.jpg",
         "full": "/images/thumbnails/teotu2fullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -543,22 +543,22 @@
       {
         "image": "/images/thumbnails/mindthegapdetail1.jpg",
         "full": "/images/thumbnails/mindthegapdetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/mindthegapdetail2.jpg",
         "full": "/images/thumbnails/mindthegapdetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/mindthegapdetail3.jpg",
         "full": "/images/thumbnails/mindthegapdetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/mindthegapfull.jpg",
         "full": "/images/thumbnails/mindthegapfullsize.jpg",
-        "detail": "Full-size"
+        "detail": "full-size"
       }
     ]
   },
@@ -594,17 +594,17 @@
       {
         "image": "/images/thumbnails/mindthegapokerdetail1.jpg",
         "full": "/images/thumbnails/mindthegapokerdetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/mindthegapokerdetail2.jpg",
         "full": "/images/thumbnails/mindthegapokerdetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/mindthegapokerdetail3.jpg",
         "full": "/images/thumbnails/mindthegapokerdetail3full.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/mindthegapokerfull.jpg",
@@ -652,17 +652,17 @@
       {
         "image": "/images/thumbnails/mindthegapreddetail1.jpg",
         "full": "/images/thumbnails/mindthegapreddetail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/mindthegapreddetail2.jpg",
         "full": "/images/thumbnails/mindthegapreddetail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/mindthegapreddetail3.jpg",
         "full": "/images/thumbnails/mindthegapreddetail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/mindthegapredfull.jpg",
@@ -727,17 +727,17 @@
       {
         "image": "/images/thumbnails/mindthegap2detail1.jpg",
         "full": "/images/thumbnails/mindthegap2detail1big.jpg",
-        "detail": "Detail-1"
+        "detail": "detail-1"
       },
       {
         "image": "/images/thumbnails/mindthegap2detail2.jpg",
         "full": "/images/thumbnails/mindthegap2detail2big.jpg",
-        "detail": "Detail-2"
+        "detail": "detail-2"
       },
       {
         "image": "/images/thumbnails/mindthegap2detail3.jpg",
         "full": "/images/thumbnails/mindthegap2detail3big.jpg",
-        "detail": "Detail-3"
+        "detail": "detail-3"
       },
       {
         "image": "/images/thumbnails/mindthegap2full.jpg",

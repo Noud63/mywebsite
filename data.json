@@ -1190,5 +1190,24 @@
     "id": "discoball_52",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "lola",
+    "type": "painting",
+    "title": "Lola",
+    "title_long": "",
+    "image": "/images/lola_content.jpg",
+    "technique": "Velcro, charcoal, on canvas",
+    "size": "140 x 240cm",
+    "year": "2003",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/lola_small.jpg",
+        "full": "/images/thumbnails/lola_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
   }
 ]

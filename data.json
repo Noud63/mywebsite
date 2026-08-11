@@ -1209,5 +1209,10 @@
         "detail": "full-size"
       }
     ]
+  },
+  {
+    "id": "discoball_52",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

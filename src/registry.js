@@ -10,6 +10,8 @@ import Duchamp from "./components/Duchamp";
 import Cattelan from "./components/Cattelan";
 import Cluster from "./components/Cluster";
 import Manzoni from "./components/Manzoni";
+import Basjanader from "./components/Basjanader";
+import Stanleybrouwn from "./components/Stanleybrouwn";
 
 export const registry = {
   manzoni: Manzoni,
@@ -23,5 +25,7 @@ export const registry = {
   hirst: DamienHirst,
   magritte: Magritte,
   duchamp: Duchamp,
-  cattelan: Cattelan
+  cattelan: Cattelan,
+  basjanader: Basjanader,
+  stanleybrouwn: Stanleybrouwn
 };

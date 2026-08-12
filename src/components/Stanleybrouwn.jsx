@@ -1,0 +1,36 @@
+import React from "react";
+
+const Stanleybrouwn = ({ image, name, year, title }) => {
+  return (
+    <div className="max-mobile:px-2">
+      <div className="flex flex-col text-center bg-black py-6 text-white">
+        <span className="text-2xl max-sm:text-xl">{name}</span>
+        <span className="text-lg max-sm:text-sm">
+          "{title}" {year}
+        </span>
+      </div>
+      <div className="w-full bg-black">
+        <img src={image} alt="duchamp" loading="lazy" />
+      </div>
+      <div className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
+        <p>
+          In his work This Way Brouwn, Stanley Brouwn engaged with this simple
+          act: he asked random passers-by for directions and marked their
+          spontaneous, chance drawings with his personal stamp. In doing so, the
+          participants inadvertently became part of a work that explored the
+          experience of time, movement, and space.
+        </p>
+        <p>
+          Brouwn described the project as imbuing these routes with “the most
+          primal aspect of our being: the ability to move.” Walking and the
+          experience of motion became central to his practice, and through this
+          pioneering participatory approach, he invited viewers to become
+          co-creators, experiencing the work from the perspective of the artist
+          who orchestrated it.
+        </p>
+      </div>
+    </div>
+  );
+};
+
+export default Stanleybrouwn;

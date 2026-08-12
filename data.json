@@ -1141,7 +1141,26 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_52",
+    "id": "lola",
+    "type": "painting",
+    "title": "Lola",
+    "title_long": "",
+    "image": "/images/lola_content.jpg",
+    "technique": "Velcro, charcoal, on canvas",
+    "size": "140 x 240cm",
+    "year": "2003",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/lola_small.jpg",
+        "full": "/images/thumbnails/lola_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_51",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1165,7 +1184,7 @@
     ]
   },
   {
-    "id": "discoball_51",
+    "id": "discoball_52",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1177,7 +1196,7 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_51",
+    "id": "discoball_53",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1187,31 +1206,20 @@
     "image": "/images/thetexastheatre_overview.jpg"
   },
   {
-    "id": "discoball_52",
+    "id": "discoball_54",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "lola",
-    "type": "painting",
-    "title": "Lola",
-    "title_long": "",
-    "image": "/images/lola_content.jpg",
-    "technique": "Velcro, charcoal, on canvas",
-    "size": "140 x 240cm",
-    "year": "2003",
-    "cluster": "Cluster-C",
-    "bgstyle": "bg-yellow-900",
-    "thumbs": [
-      {
-        "image": "/images/thumbnails/lola_small.jpg",
-        "full": "/images/thumbnails/lola_fullsize.jpg",
-        "detail": "full-size"
-      }
-    ]
-  },
-  {
-    "id": "discoball_52",
+    "id": "basjanader",
+    "type": "basjanader",
+    "name": "Bas Jan Ader",
+    "title": "In Search of the Miraculous",
+    "image": "/images/basjanader.jpg",
+    "year": "1961"
+},
+{
+    "id": "discoball_55",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

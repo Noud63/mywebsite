@@ -1141,6 +1141,11 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
+    "id": "discoball_51",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "lola",
     "type": "painting",
     "title": "Lola",
@@ -1160,7 +1165,7 @@
     ]
   },
   {
-    "id": "discoball_51",
+    "id": "discoball_52",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1184,7 +1189,7 @@
     ]
   },
   {
-    "id": "discoball_52",
+    "id": "discoball_53",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1196,7 +1201,7 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_53",
+    "id": "discoball_54",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1206,7 +1211,7 @@
     "image": "/images/thetexastheatre_overview.jpg"
   },
   {
-    "id": "discoball_54",
+    "id": "discoball_55",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1219,7 +1224,7 @@
     "year": "1961"
 },
 {
-    "id": "discoball_55",
+    "id": "discoball_56",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1243,7 +1248,7 @@
     ]
   },
   {
-    "id": "discoball_56",
+    "id": "discoball_57",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1256,7 +1261,7 @@
     "year": "1965"
 },
 {
-    "id": "discoball_57",
+    "id": "discoball_58",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

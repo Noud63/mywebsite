@@ -3,14 +3,14 @@ import React from "react";
 const Basjanader = ({ image, name, year, title }) => {
   return (
     <div className="max-mobile:px-2">
-      <div className="flex flex-col text-center bg-black py-6 text-white">
+      <div className="flex flex-col border-t border-black text-center py-6 text-black">
         <span className="text-2xl max-sm:text-xl">{name}</span>
         <span className="text-lg max-sm:text-sm">
           "{title}" {year}
         </span>
       </div>
-      <div className="w-full bg-black">
-        <img src={image} alt="duchamp" loading="lazy" />
+      <div className="w-full">
+        <img src={image} alt="basjanader" loading="lazy" />
       </div>
       <div className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
         <p>

@@ -1222,5 +1222,42 @@
     "id": "discoball_55",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "houstonwehaveaproblem",
+    "type": "painting",
+    "title": "Houston, We Have a Problem",
+    "title_long": "",
+    "image": "/images/houstonwehaveaproblem_content.jpg",
+    "technique": "Velcro, charcoal, foam, print, acrylics on canvas",
+    "size": "200 x 270cm",
+    "year": "2000",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/houstonwehaveaproblem_small.jpg",
+        "full": "/images/thumbnails/houstonwehaveaproblem_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_56",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "stanleybrouwn",
+    "type": "stanleybrouwn",
+    "name": "Stanley Brouwn",
+    "title": "This Way Brouwn",
+    "image": "/images/stanleybrouwn.jpg",
+    "year": "1965"
+},
+{
+    "id": "discoball_57",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

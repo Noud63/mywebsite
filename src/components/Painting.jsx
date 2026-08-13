@@ -20,20 +20,23 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
       <div className="flex flex-col gap-1 justify-between items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
         {cluster && (
           <div className="w-full flex justify-start px-2">
-            <div className="flex justify-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">{cluster}</div>
+            <div className="flex justify-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">
+              {cluster}
             </div>
+          </div>
         )}
 
         <div className="w-full flex items-center flex-row justify-between text-2xl max-md:text-xl px-2 max-xxsm:text-lg">
-<span className="">{id !== "taxonomy" ? title : title.slice(0, 8)}</span>
+          <span className="">
+            {id !== "taxonomy" ? title : title.slice(0, 8)}
+          </span>
 
-        <span className="w-10 flex justify-end">{year}</span>
+          <span className="w-10 flex justify-end">{year}</span>
         </div>
-        
       </div>
       <div className="bg-white flex justify-center items-center relative mt-4">
         <div className="w-full h-auto relative">
-          <img src={image} alt="noud van dun" loading="lazy"/>
+          <img src={image} alt="noud van dun" loading="lazy" />
           <PaintingInfoOverlay
             id={id}
             closeOverlay={setOpenCloseOverlay}
@@ -79,26 +82,28 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
             );
           })}
         </div>
-      ) : (<div
-                className="w-full flex items-center justify-center flex-col cursor-pointer overflow-clip mt-8 mb-8 max-mobile:mb-4"
-                key={index}
-                onClick={() => {
-                  setIndex(index);
-                  setOpen(true);
-                }}
-              >
-                <img
-                  src={thumbs[0]?.image}
-                  className="w-[200px] h-auto object-cover detail max-xsm:w-[120px] "
-                  alt="noud van dun"
-                  loading="lazy"
-                />
-                <div
-                  className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
-                >
-                  {thumbs[0]?.detail}
-                </div>
-              </div>)}
+      ) : (
+        <div
+          className="w-full flex items-center justify-center flex-col cursor-pointer overflow-clip mt-8 mb-8 max-mobile:mb-4"
+          key={index}
+          onClick={() => {
+            setIndex(index);
+            setOpen(true);
+          }}
+        >
+          <img
+            src={thumbs[0]?.image}
+            className="w-[200px] h-auto object-cover detail max-xsm:w-[120px] "
+            alt="noud van dun"
+            loading="lazy"
+          />
+          <div
+            className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
+          >
+            {thumbs[0]?.detail}
+          </div>
+        </div>
+      )}
       <Lightbox
         open={open}
         close={() => setOpen(false)}

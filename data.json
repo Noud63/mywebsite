@@ -1221,7 +1221,7 @@
     "name": "Bas Jan Ader",
     "title": "In Search of the Miraculous",
     "image": "/images/basjanader.jpg",
-    "year": "1961"
+    "year": "1975"
 },
 {
     "id": "discoball_56",
@@ -1253,6 +1253,18 @@
     "image": "/images/discoballpara.png"
   },
   {
+    "id": "quote_12",
+    "type": "quote",
+    "text": "All art is contemporary art because it had to be made when it was now.",
+    "name": "James Turrell",
+    "url": "https://www.pacegallery.com/artists/james-turrell"
+  },
+  {
+    "id": "discoball_58",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "stanleybrouwn",
     "type": "stanleybrouwn",
     "name": "Stanley Brouwn",
@@ -1261,7 +1273,43 @@
     "year": "1965"
 },
 {
-    "id": "discoball_58",
+    "id": "discoball_59",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_13",
+    "type": "quote",
+    "text": "My job is to make meaning. To make meaning in a meaningless world.",
+    "name": "Grayson Perry",
+    "url": "https://nl.wikipedia.org/wiki/Grayson_Perry"
+  },
+  {
+    "id": "discoball_59",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "cow",
+    "type": "painting",
+    "title": "C.O.W.",
+    "title_long": "Coincidence or Wellplanned",
+    "image": "/images/cow_content.jpg",
+    "technique": "Velcro, charcoal, acrylics on canvas",
+    "size": "150 x 220cm",
+    "year": "2005",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/cow_small.jpg",
+        "full": "/images/thumbnails/cow_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_60",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

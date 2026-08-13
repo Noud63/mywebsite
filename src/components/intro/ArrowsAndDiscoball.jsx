@@ -9,10 +9,9 @@ const ArrowsAndDiscoball = () => {
           <img src="images/arrow.png" alt="" className="downarrow" />
         </div>
 
-        <div className="text-center flex justify-center flex-col">
+        <div className="text-center flex justify-center flex-col max-lg:px-8">
           <span>
-            All works with title bar by: <br />
-            <span className="font-semibold ">&copy;Noud van Dun </span>
+            Works by Noud van Dun are identified by the presence of cluster A, B, or C in the title bar.
           </span>
           
         </div>

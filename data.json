@@ -1170,20 +1170,20 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "thetexastheatre",
+    "id": "cow",
     "type": "painting",
-    "title": "The Texas Theatre",
-    "title_long": "",
-    "image": "/images/thetexastheatre_content.jpg",
-    "technique": "Velcro, foam, print, acrylics on canvas",
-    "size": "140 x 240cm",
-    "year": "1999",
+    "title": "C.O.W.",
+    "title_long": "Coincidence or Wellplanned",
+    "image": "/images/cow_content.jpg",
+    "technique": "Velcro, charcoal, acrylics on canvas",
+    "size": "150 x 220cm",
+    "year": "2005",
     "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
-        "image": "/images/thumbnails/thetexastheatre_small.jpg",
-        "full": "/images/thumbnails/thetexastheatre_fullsize.jpg",
+        "image": "/images/thumbnails/cow_small.jpg",
+        "full": "/images/thumbnails/cow_fullsize.jpg",
         "detail": "full-size"
       }
     ]
@@ -1206,16 +1206,6 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "overview_9",
-    "type": "overview",
-    "image": "/images/thetexastheatre_overview.jpg"
-  },
-  {
-    "id": "discoball_55",
-    "type": "discoball",
-    "image": "/images/discoballpara.png"
-  },
-  {
     "id": "basjanader",
     "type": "basjanader",
     "name": "Bas Jan Ader",
@@ -1229,20 +1219,20 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "houstonwehaveaproblem",
+    "id": "cow",
     "type": "painting",
-    "title": "Houston, We Have a Problem",
-    "title_long": "",
-    "image": "/images/houstonwehaveaproblem_content.jpg",
-    "technique": "Velcro, charcoal, foam, print, acrylics on canvas",
-    "size": "200 x 270cm",
-    "year": "2000",
+    "title": "C.O.W.",
+    "title_long": "Coincidence or Wellplanned",
+    "image": "/images/cow_content.jpg",
+    "technique": "Velcro, charcoal, acrylics on canvas",
+    "size": "150 x 220cm",
+    "year": "2005",
     "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
-        "image": "/images/thumbnails/houstonwehaveaproblem_small.jpg",
-        "full": "/images/thumbnails/houstonwehaveaproblem_fullsize.jpg",
+        "image": "/images/thumbnails/cow_small.jpg",
+        "full": "/images/thumbnails/cow_fullsize.jpg",
         "detail": "full-size"
       }
     ]
@@ -1290,26 +1280,94 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "cow",
+    "id": "houstonwehaveaproblem",
     "type": "painting",
-    "title": "C.O.W.",
-    "title_long": "Coincidence or Wellplanned",
-    "image": "/images/cow_content.jpg",
-    "technique": "Velcro, charcoal, acrylics on canvas",
-    "size": "150 x 220cm",
-    "year": "2005",
+    "title": "Houston, We Have a Problem",
+    "title_long": "",
+    "image": "/images/houstonwehaveaproblem_content.jpg",
+    "technique": "Velcro, charcoal, foam, print, acrylics on canvas",
+    "size": "200 x 270cm",
+    "year": "2000",
     "cluster": "Cluster-C",
     "bgstyle": "bg-yellow-900",
     "thumbs": [
       {
-        "image": "/images/thumbnails/cow_small.jpg",
-        "full": "/images/thumbnails/cow_fullsize.jpg",
+        "image": "/images/thumbnails/houstonwehaveaproblem_small.jpg",
+        "full": "/images/thumbnails/houstonwehaveaproblem_fullsize.jpg",
         "detail": "full-size"
       }
     ]
   },
   {
     "id": "discoball_60",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "boten",
+    "type": "painting",
+    "title": "No Title",
+    "title_long": "",
+    "image": "/images/boten_content.jpg",
+    "technique": "Velcro, charcoal, acrylics, print, foamboard on canvas",
+    "size": "140 x 240cm",
+    "year": "2002",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/boten_small.jpg",
+        "full": "/images/thumbnails/boten_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_60",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "overview_9",
+    "type": "overview",
+    "image": "/images/boten_molen_overview.jpg"
+  },
+  {
+    "id": "discoball_61",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+   {
+    "id": "thetexastheatre",
+    "type": "painting",
+    "title": "The Texas Theatre",
+    "title_long": "",
+    "image": "/images/thetexastheatre_content.jpg",
+    "technique": "Velcro, foam, print, acrylics on canvas",
+    "size": "140 x 240cm",
+    "year": "1999",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/thetexastheatre_small.jpg",
+        "full": "/images/thumbnails/thetexastheatre_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_60",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+   {
+    "id": "overview_10",
+    "type": "overview",
+    "image": "/images/thetexastheatre_overview.jpg"
+  },
+  {
+    "id": "discoball_61",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

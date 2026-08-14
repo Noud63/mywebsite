@@ -36,7 +36,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
       </div>
       <div className="bg-white flex justify-center items-center relative mt-4">
         <div className="w-full h-auto relative">
-          <img src={image} alt="noud van dun" loading="lazy" />
+          <img src={image} alt={`${title} (${year}), painting by Noud van Dun`} loading="lazy" />
           <PaintingInfoOverlay
             id={id}
             closeOverlay={setOpenCloseOverlay}
@@ -50,7 +50,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
         >
           <img
             src={`${id !== "panorama" ? "/images/infowhite.png" : "/images/info3.png"}`}
-            alt="noud van dun"
+            alt={`${title} (${year}), painting by Noud van Dun`}
             className="w-[30px] max-sm:w-[20px] infoButton"
           />
         </div>
@@ -70,7 +70,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
                 <img
                   src={painting.image}
                   className="w-[200px] h-[130px] object-cover detail max-xsm:w-[150px] max-xsm:h-[100px]"
-                  alt="noud van dun"
+                  alt="painting by Noud van Dun"
                   loading="lazy"
                 />
                 <div
@@ -94,7 +94,7 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
           <img
             src={thumbs[0]?.image}
             className="w-[200px] h-auto object-cover detail max-xsm:w-[120px] "
-            alt="noud van dun"
+            alt={`${thumbs[0]?.title} (${thumbs[0]?.year}), painting by Noud van Dun`}
             loading="lazy"
           />
           <div

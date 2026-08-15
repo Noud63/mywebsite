@@ -1189,30 +1189,6 @@
     "image": "/images/discoballpara.png"
   },
   {
-    "id": "cow",
-    "type": "painting",
-    "title": "C.O.W.",
-    "title_long": "Coincidence or Wellplanned",
-    "image": "/images/cow_content.jpg",
-    "technique": "Velcro, charcoal, acrylics on canvas",
-    "size": "150 x 220cm",
-    "year": "2005",
-    "cluster": "Cluster-C",
-    "bgstyle": "bg-yellow-900",
-    "thumbs": [
-      {
-        "image": "/images/thumbnails/cow_small.jpg",
-        "full": "/images/thumbnails/cow_fullsize.jpg",
-        "detail": "full-size"
-      }
-    ]
-  },
-  {
-    "id": "discoball_53",
-    "type": "discoball",
-    "image": "/images/discoballpara.png"
-  },
-  {
     "id": "quote_11",
     "type": "quote",
     "text": "Art usually only makes the news when the subject is money.",

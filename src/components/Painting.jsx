@@ -17,26 +17,26 @@ const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
     <div
       className={`max-mobile:mx-2 max-sm:pb-0  ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
     >
-      <div className="flex flex-col gap-1 justify-between items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
+      <div className="flex flex-col gap-1 justify-center items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
         {cluster && (
-          <div className="w-full flex justify-start px-2">
-            <div className="flex justify-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">
+          <div className="w-full flex items-center justify-center px-2">
+            <div className="flex justify-center items-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">
               {cluster}
             </div>
           </div>
         )}
 
-        <div className="w-full flex items-center flex-row justify-between text-2xl max-md:text-xl px-2 max-xxsm:text-lg">
+        <div className="w-full flex items-center justify-center flex-row text-2xl max-md:text-xl px-2 max-xxsm:text-lg">
           <span className="">
             {id !== "taxonomy" ? title : title.slice(0, 8)}
           </span>
 
-          <span className="w-10 flex justify-end">{year}</span>
+          <span className="w-10 flex ml-3 text-md">({year})</span>
         </div>
       </div>
       <div className="bg-white flex justify-center items-center relative mt-4">
         <div className="w-full h-auto relative">
-          <img src={image} alt={`${title} (${year}), painting by Noud van Dun`} loading="lazy" />
+          <img src={image} alt={`${title} (${year}), painting by Noud van Dun`} loading="lazy" className="w-full h-full object-contain"/>
           <PaintingInfoOverlay
             id={id}
             closeOverlay={setOpenCloseOverlay}

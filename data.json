@@ -1367,5 +1367,24 @@
     "id": "discoball_61",
     "type": "discoball",
     "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "agentorange",
+    "type": "painting",
+    "title": "Agent Orange",
+    "title_long": "",
+    "image": "/images/agentorange_content.jpg",
+    "technique": "Velcro, acrylics, perspex on canvas",
+    "size": "200 x 205cm",
+    "year": "1995",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/agentorange_small.jpg",
+        "full": "/images/thumbnails/agentorange_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
   }
 ]

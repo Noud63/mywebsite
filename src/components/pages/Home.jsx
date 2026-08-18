@@ -6,8 +6,8 @@ import IntroSection from "../intro/IntroSection";
 function RenderContent({ data: items }) {
   return items.map((item, index) => {
     const { type, ...props } = item;
-    // console.log("Properties:", props);
-    const Component = registry[type];
+    // console.log("Properties:", {...props});
+    const Component = registry[type];    //registry[painting] = Painting
 
     if (!Component) {
       console.warn(`Unknown type: ${type}`);

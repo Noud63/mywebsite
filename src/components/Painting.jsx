@@ -4,7 +4,7 @@ import "yet-another-react-lightbox/styles.css";
 import { Link } from "react-router-dom";
 import PaintingInfoOverlay from "./PaintingInfoOverlay";
 
-const Painting = ({ title, image, thumbs, bgstyle, id, cluster, year }) => {
+const Painting = ({ title, image, thumbs, id, cluster, year }) => {
   const [open, setOpen] = useState(false);
   const [index, setIndex] = useState(0);
   const [openCloseOverlay, setOpenCloseOverlay] = useState(false);

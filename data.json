@@ -789,6 +789,30 @@
     "image": "/images/discoballpara.png"
   },
   {
+    "id": "lhommeaupistoletdor",
+    "type": "painting",
+    "title": "L'homme au Pistolet d'Or",
+    "title_long": "",
+    "image": "/images/lhommeaupistoletdor_content.jpg",
+    "technique": "Acrylic, velcro, foamboard, print on canvas",
+    "size": "170 x 270cm",
+    "year": "2005",
+    "cluster": "Cluster-C",
+    "bgstyle": "bg-yellow-900",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/lhommeaupistoletdor_small.jpg",
+        "full": "/images/thumbnails/lhommeaupistoletdor_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
+    "id": "discoball_32",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
     "id": "firstcontact_1",
     "type": "painting",
     "title": "First Contact",
@@ -1386,5 +1410,10 @@
         "detail": "full-size"
       }
     ]
+  },
+  {
+    "id": "discoball_61",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
   }
 ]

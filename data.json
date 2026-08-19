@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "cluster-A",
     "type": "cluster",
@@ -6,7 +6,6 @@
     "title": ["Cluster - A", "(2012 - 2018)"]
   },
   {
-    "id": "discoball_0",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -44,7 +43,6 @@
     ]
   },
   {
-    "id": "discoball_1",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -56,7 +54,6 @@
     "url": "https://www.squeakcarnwath.com/index.html"
   },
   {
-    "id": "discoball_1",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -94,7 +91,6 @@
     ]
   },
   {
-    "id": "discoball_2",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -132,7 +128,6 @@
     ]
   },
   {
-    "id": "discoball_3",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -142,7 +137,6 @@
     "image": "/images/overviewufo.jpg"
   },
   {
-    "id": "discoball_4",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -155,7 +149,6 @@
     "year": "2007"
   },
   {
-    "id": "discoball_4",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -167,7 +160,6 @@
     "url": "https://lifehacker.com/if-at-first-the-idea-is-not-absurd-then-there-is-no-h-5903189"
   },
   {
-    "id": "discoball_5",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -205,7 +197,6 @@
     ]
   },
   {
-    "id": "discoball_6",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -243,7 +234,6 @@
     ]
   },
   {
-    "id": "discoball_7",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -254,7 +244,6 @@
     "alt": "H.O.T.E.L and Taxonomy/Entropy"
   },
   {
-    "id": "discoball_8",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -292,7 +281,6 @@
     ]
   },
   {
-    "id": "discoball_9",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -304,7 +292,6 @@
     "url": "https://en.wikipedia.org/wiki/Albert_Camus"
   },
   {
-    "id": "discoball_9",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -342,7 +329,6 @@
     ]
   },
   {
-    "id": "discoball_10",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -355,7 +341,6 @@
     "image": "/images/pipe2.jpg"
   },
   {
-    "id": "discoball_11",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -393,7 +378,6 @@
     ]
   },
   {
-    "id": "discoball_12",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -405,7 +389,6 @@
     "url": "https://www.banksy.co.uk/"
   },
   {
-    "id": "discoball_13",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -415,7 +398,6 @@
     "image": "/images/enigmadiscooverview.jpg"
   },
   {
-    "id": "discoball_14",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -428,7 +410,6 @@
     "year": "2018"
   },
   {
-    "id": "discoball_15",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -466,7 +447,6 @@
     ]
   },
   {
-    "id": "discoball_16",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -504,7 +484,6 @@
     ]
   },
   {
-    "id": "discoball_17",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -515,7 +494,6 @@
     "title": ["Cluster - B", "(2007 - 2011)"]
   },
   {
-    "id": "discoball_18",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -553,7 +531,6 @@
     ]
   },
   {
-    "id": "discoball_19",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -565,7 +542,6 @@
     "url": "https://mcluhangalaxy.wordpress.com/2011/12/08/andy-wharhol-marshall-mcluhan-the-artist-the-visionary/"
   },
   {
-    "id": "discoball_20",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -603,7 +579,6 @@
     ]
   },
   {
-    "id": "discoball_21",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -614,7 +589,6 @@
     "alt": "Mind the Gap, black and ochre"
   },
   {
-    "id": "discoball_21",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -623,7 +597,6 @@
     "type": "about"
   },
   {
-    "id": "discoball_22",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -661,7 +634,6 @@
     ]
   },
   {
-    "id": "discoball_23",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -672,7 +644,6 @@
     "alt": "Mind the Gap, red"
   },
   {
-    "id": "discoball_24",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -686,7 +657,6 @@
     "url": "https://seeallthis.com/artikel/het-urinoir-is-niet-van-duchamp-van-elsa-von-freytag-loringhoven/"
   },
   {
-    "id": "discoball_25",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -698,7 +668,6 @@
     "url": "https://streamlinepublishing.com/inside-art/art-is-not-what-you-see-but-what-you-make-others-see/"
   },
   {
-    "id": "discoball_26",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -736,7 +705,6 @@
     ]
   },
   {
-    "id": "discoball_27",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -747,7 +715,6 @@
     "alt": "Mind the Gap, black"
   },
   {
-    "id": "discoball_29",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -759,7 +726,6 @@
     "url": "https://www.egon-schiele.com"
   },
   {
-    "id": "discoball_30",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -770,11 +736,10 @@
     "title": ["Cluster - C", "(1996 - 2006)"]
   },
   {
-    "id": "discoball_31",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "cow",
     "type": "painting",
     "title": "C.O.W.",
@@ -793,7 +758,6 @@
     ]
   },
   {
-    "id": "discoball_57",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -816,7 +780,6 @@
     ]
   },
   {
-    "id": "discoball_32",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -839,7 +802,6 @@
     ]
   },
   {
-    "id": "discoball_32",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -862,7 +824,6 @@
     ]
   },
   {
-    "id": "discoball_33",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -874,7 +835,6 @@
     "url": "https://www.artbasel.com/stories/art-world-powerhouse-amy-cappellazzo-shares-the-artists-that-caught-her-eye"
   },
   {
-    "id": "discoball_34",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -885,7 +845,6 @@
     "alt": "First Contact & Crime Scene Overview"
   },
   {
-    "id": "discoball_35",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -898,7 +857,6 @@
     "year": "2019"
   },
   {
-    "id": "discoball_35",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -921,7 +879,6 @@
     ]
   },
   {
-    "id": "discoball_36",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -932,7 +889,6 @@
     "alt": "Littleboy & the Fatman Overview"
   },
   {
-    "id": "discoball_37",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -955,7 +911,6 @@
     ]
   },
   {
-    "id": "discoball_38",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -966,7 +921,6 @@
     "name": "Unknown author"
   },
   {
-    "id": "discoball_39",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -977,7 +931,6 @@
     "alt": "Twijfelachtige Triomf & Misty Rain 69 Overview"
   },
   {
-    "id": "discoball_40",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -988,7 +941,6 @@
     "name": "Keith Haring"
   },
   {
-    "id": "discoball_41",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1011,7 +963,6 @@
     ]
   },
   {
-    "id": "discoball_42",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1034,7 +985,6 @@
     ]
   },
   {
-    "id": "discoball_43",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1047,7 +997,6 @@
     "year": "1961"
   },
   {
-    "id": "discoball_44",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1058,7 +1007,6 @@
     "alt": "The Unguided Tour & News Overview"
   },
   {
-    "id": "discoball_44",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1069,7 +1017,6 @@
     "name": "Ai Weiwei"
   },
   {
-    "id": "discoball_45",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1092,7 +1039,6 @@
     ]
   },
   {
-    "id": "discoball_46",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1103,7 +1049,6 @@
     "name": "Friedrich Nietzsche "
   },
   {
-    "id": "discoball_47",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1126,7 +1071,6 @@
     ]
   },
   {
-    "id": "discoball_48",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1137,7 +1081,6 @@
     "name": "Henri de Toulouse-Lautrec"
   },
   {
-    "id": "discoball_49",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1160,7 +1103,6 @@
     ]
   },
   {
-    "id": "discoball_50",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1171,7 +1113,6 @@
     "alt": "Shark & News Overview"
   },
   {
-    "id": "discoball_50",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1183,7 +1124,6 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_51",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1206,7 +1146,6 @@
     ]
   },
   {
-    "id": "discoball_52",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1218,7 +1157,6 @@
     "url": "https://www.fantasticman.com/articles/jerry-saltz/"
   },
   {
-    "id": "discoball_54",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1230,20 +1168,8 @@
     "image": "/images/basjanader.jpg",
     "year": "1975"
   },
+
   {
-    "id": "discoball_56",
-    "type": "discoball",
-    "image": "/images/discoballpara.png"
-  },
-  {
-    "id": "quote_12",
-    "type": "quote",
-    "text": "All art is contemporary art because it had to be made when it was now.",
-    "name": "James Turrell",
-    "url": "https://www.pacegallery.com/artists/james-turrell"
-  },
-  {
-    "id": "discoball_58",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1255,7 +1181,6 @@
     "url": "https://nl.wikipedia.org/wiki/Grayson_Perry"
   },
   {
-    "id": "discoball_59",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1278,7 +1203,6 @@
     ]
   },
   {
-    "id": "discoball_60",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1301,7 +1225,6 @@
     ]
   },
   {
-    "id": "discoball_60",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1312,7 +1235,6 @@
     "alt": "Boten & Molen Overview"
   },
   {
-    "id": "discoball_61",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1335,11 +1257,10 @@
     ]
   },
   {
-    "id": "discoball_60",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
-   {
+  {
     "id": "stanleybrouwn",
     "type": "stanleybrouwn",
     "name": "Stanley Brouwn",
@@ -1348,7 +1269,6 @@
     "year": "1965"
   },
   {
-    "id": "discoball_59",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1359,7 +1279,6 @@
     "alt": "The Texas Theatre Overview"
   },
   {
-    "id": "discoball_61",
     "type": "discoball",
     "image": "/images/discoballpara.png"
   },
@@ -1382,7 +1301,39 @@
     ]
   },
   {
-    "id": "discoball_61",
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "quote_12",
+    "type": "quote",
+    "text": "All art is contemporary art because it had to be made when it was now.",
+    "name": "James Turrell",
+    "url": "https://www.pacegallery.com/artists/james-turrell"
+  },
+  {
+    "type": "discoball",
+    "image": "/images/discoballpara.png"
+  },
+  {
+    "id": "takeabreak",
+    "type": "painting",
+    "title": "Take a Break From the Average Day",
+    "title_long": "",
+    "image": "/images/takeabreak_content.jpg",
+    "technique": "Velcro, acrylics, perspex on canvas",
+    "size": "200 x 205cm",
+    "year": "1995",
+    "cluster": "Cluster-C",
+    "thumbs": [
+      {
+        "image": "/images/thumbnails/takeabreak_small.jpg",
+        "full": "/images/thumbnails/takeabreak_fullsize.jpg",
+        "detail": "full-size"
+      }
+    ]
+  },
+  {
     "type": "discoball",
     "image": "/images/discoballpara.png"
   }

@@ -13,9 +13,9 @@ export default function RootLayout() {
         <div className="contentbody bg-white flex flex-col pr-4 max-sm:pr-2 max-mobile:pr-0">
         <Hero />
         <HeroTitle />
-        <div className="flex flex-col max-sm:pr-2 max-mobile:px-0">
+        <main className="flex flex-col max-sm:pr-2 max-mobile:px-0">
              <Outlet />
-        </div>
+        </main>
        
         <Footer />
         </div>

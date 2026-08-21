@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const About = () => {
   return (
-    <main className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-mobile:px-2 max-sm:mt-8 max-xsm:mt-4">
+    <section className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-mobile:px-2 max-sm:mt-8 max-xsm:mt-4">
       <article className="w-full flex max-w-[900px] flex-col ">
         <h1 className="border-b border-blue-950 pb-4 text-center text-2xl max-sm:text-2xl">
           <span>What it's all about</span>
@@ -125,7 +125,7 @@ const About = () => {
           Back
         </Link>
       </nav>
-    </main>
+    </section>
   );
 };
 

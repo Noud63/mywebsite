@@ -49,7 +49,7 @@ export default function Home() {
   }
 
   return (
-    <main>
+    <>
       <section className="flex max-w-[1150px] mb-40">
         <section className="bg-white flex flex-col max-xsm:px-0">
           <IntroSection />
@@ -80,6 +80,6 @@ export default function Home() {
           </button>
         </div>
       )}
-    </main>
+    </>
   );
 }

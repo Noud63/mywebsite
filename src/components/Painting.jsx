@@ -14,27 +14,27 @@ const Painting = ({ title, image, thumbs, id, cluster, year }) => {
   }));
 
   return (
-    <div
+    <article
       className={`max-mobile:mx-2 max-sm:pb-0  ${thumbs.length > 0 ? "border-b border-blue-950" : ""}`}
     >
-      <div className="flex flex-col gap-1 justify-center items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
+      <header className="flex flex-col gap-1 justify-center items-center text-blue-950 font-normal tracking-wider font-serif py-2 border-t border-b border-blue-950 max-sm:text-xl">
         {cluster && (
           <div className="w-full flex items-center justify-center px-2">
-            <div className="flex justify-center items-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">
+            <span className="flex justify-center items-center pb-[2px] pt-[4px] text-[12px] rounded-full  text-blue-950">
               {cluster}
-            </div>
+            </span>
           </div>
         )}
 
-        <div className="w-full flex items-center justify-center flex-row text-2xl max-md:text-xl px-2 max-xxsm:text-lg">
+        <h2 className="w-full flex items-center justify-center flex-row text-2xl max-md:text-xl px-2 max-xxsm:text-lg">
           <span className="">
             {id !== "taxonomy" ? title : title.slice(0, 8)}
           </span>
 
           <span className="w-10 flex ml-3 text-md">({year})</span>
-        </div>
-      </div>
-      <div className="bg-white flex justify-center items-center relative mt-4">
+        </h2>
+      </header>
+      <figure className="bg-white flex justify-center items-center relative mt-4">
         <div className="w-full h-auto relative">
           <img src={image} alt={`${title} (${year}), painting by Noud van Dun`} loading="lazy" className="w-full h-full object-contain"/>
           <PaintingInfoOverlay
@@ -44,7 +44,7 @@ const Painting = ({ title, image, thumbs, id, cluster, year }) => {
           />
         </div>
 
-        <div
+        <button
           className="absolute right-[2%] bottom-[3%] cursor-pointer z-10"
           onClick={() => setOpenCloseOverlay(!openCloseOverlay)}
         >
@@ -53,13 +53,13 @@ const Painting = ({ title, image, thumbs, id, cluster, year }) => {
             alt={`${title} (${year}), painting by Noud van Dun`}
             className="w-[30px] max-sm:w-[20px] infoButton"
           />
-        </div>
-      </div>
+        </button>
+      </figure>
       {thumbs.length > 1 ? (
-        <div className="w-full grid grid-cols-4 max-md:grid-cols-2 gap-4 pt-6 pb-6 max-sm:pb-4">
+        <figure className="w-full grid grid-cols-4 max-md:grid-cols-2 gap-4 pt-6 pb-6 max-sm:pb-4">
           {thumbs.map((painting, index) => {
             return (
-              <div
+              <button
                 className="w-full flex items-center flex-col  cursor-pointer overflow-clip"
                 key={index}
                 onClick={() => {
@@ -73,17 +73,17 @@ const Painting = ({ title, image, thumbs, id, cluster, year }) => {
                   alt="painting by Noud van Dun"
                   loading="lazy"
                 />
-                <div
+                <figcaption
                   className={`w-full max-w-[80px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
                 >
                   {painting.detail}
-                </div>
-              </div>
+                </figcaption>
+              </button>
             );
           })}
-        </div>
+        </figure>
       ) : (
-        <div
+        <button
           className="w-full flex items-center justify-center flex-col cursor-pointer overflow-clip mt-8 mb-8 max-mobile:mb-4"
           key={index}
           onClick={() => {
@@ -97,12 +97,12 @@ const Painting = ({ title, image, thumbs, id, cluster, year }) => {
             alt={`${thumbs[0]?.title} (${thumbs[0]?.year}), painting by Noud van Dun`}
             loading="lazy"
           />
-          <div
+          <figcaption
             className={`w-full max-w-[120px] border border-black text-sm text-black rounded-full flex items-center justify-center mt-4 h-[24px] max-sm:w-[100px] max-sm:text-[12px] max-sm:border-none`}
           >
             {thumbs[0]?.detail}
-          </div>
-        </div>
+          </figcaption>
+        </button>
       )}
       <Lightbox
         open={open}
@@ -113,7 +113,7 @@ const Painting = ({ title, image, thumbs, id, cluster, year }) => {
           container: { backgroundColor: "rgba(0, 0, 0, 0.5)" },
         }}
       />
-    </div>
+    </article>
   );
 };
 

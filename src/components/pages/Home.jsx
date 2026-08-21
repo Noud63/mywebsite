@@ -49,9 +49,9 @@ export default function Home() {
   }
 
   return (
-    <div className="">
-      <div className="flex flex-row max-w-[1150px] mx-auto mb-40">
-        <div className="bg-white flex flex-col max-xsm:px-0">
+    <main>
+      <section className="flex max-w-[1150px] mb-40">
+        <section className="bg-white flex flex-col max-xsm:px-0">
           <IntroSection />
           <RenderContent data={data} />
 
@@ -66,8 +66,9 @@ export default function Home() {
               </button>
             </div>
           )} */}
-        </div>
-      </div>
+        </section>
+      </section>
+      
       {showScrollButton && (
         <div className="fixed bottom-8 right-8 z-999 w-[50px] h-[50px] border-2 border-[#b09a8d] rounded-full flex justify-center items-center bg-white max-sm:w-[40px] max-sm:h-[40px] ">
           <button
@@ -79,6 +80,6 @@ export default function Home() {
           </button>
         </div>
       )}
-    </div>
+    </main>
   );
 }

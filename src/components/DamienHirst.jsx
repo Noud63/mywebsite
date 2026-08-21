@@ -2,19 +2,19 @@ import React from "react";
 
 const DamienHirst = ({ image, name, title, year }) => {
   return (
-    <div className="bg-black pb-14 max-mobile:mx-2">
-      <div className="flex flex-col items-center justify-center text-white leading-[1.6] p-[18px] max-sm:p-[12px] max-sm:p-0 border-b border-white mx-4 py-6">
+    <article className="bg-black pb-14 max-mobile:mx-2">
+      <header className="flex flex-col items-center justify-center text-white leading-[1.6] p-[18px] max-sm:p-[12px] max-sm:p-0 border-b border-white mx-4 py-6">
         <span className="text-2xl font-bold text-white max-sm:text-xl">
           {name}
         </span>
         <span className="text-lg text-white max-sm:text-[16px]">
           "{title}" {year}
         </span>
-      </div>
-      <div className="w-full h-auto ">
+      </header>
+      <figure className="w-full h-auto ">
         <img src={image} alt="" loading="lazy"/>
-      </div>
-      <div className="flex flex-col text-white px-16 text-xl gap-y-4 max-sm:text-lg max-sm:px-6">
+      </figure>
+      <section className="flex flex-col text-white px-16 text-xl gap-y-4 max-sm:text-lg max-sm:px-6">
         <p>
           For the Love of God is a sculpture by artist Damien Hirst produced in
           2007. It consists of a platinum cast of an 18th-century human skull
@@ -35,8 +35,8 @@ const DamienHirst = ({ image, name, title, year }) => {
           still owns the piece along with his gallery, White Cube, and other
           investors, and it has remained in storage in London.
         </p>
-      </div>
-    </div>
+      </section>
+    </article>
   );
 };
 

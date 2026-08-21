@@ -1,35 +1,27 @@
 import React from "react";
 
-const Banksy = ({image, title, name, year}) => {
+const Banksy = ({ image, title, name, year }) => {
   return (
-    <div  className="max-mobile:px-2">
+    <article className="max-mobile:px-2">
       {/* Header */}
-      <div
-        className="
-      flex w-full flex-row items-center justify-center 
-      border-t border-blue-950
-      
-       "
+      <header className="
+      flex w-full flex-row items-center justify-center border-t border-blue-950"
       >
-        <div
-          className="
-        flex w-full flex-col items-center justify-center
-        text-[#797979]
-        leading-[1.6]
-        p-6 max-sm:p-[12px] max-sm:p-0 bg-black
-      "
+        <h2 className="flex w-full flex-col items-center justify-center text-[#797979] leading-[1.6]
+        p-6 max-sm:p-[12px] max-sm:p-0 bg-black"
         >
-          <span className="text-2xl font-bold text-white max-sm:text-xl">{name}</span>
+          <span className="text-2xl font-bold text-white max-sm:text-xl">
+            {name}
+          </span>
 
-          <span className="text-lg text-white max-sm:text-[16px]">"{title}"</span>
-        </div>
-      </div>
+          <span className="text-lg text-white max-sm:text-[16px]">
+            "{title}"
+          </span>
+        </h2>
+      </header>
 
       {/* Image */}
-      <div
-        className="
-      relative w-full h-auto leading-none
-    "
+      <figure className="relative w-full h-auto leading-none"
       >
         <img
           src={image}
@@ -37,19 +29,10 @@ const Banksy = ({image, title, name, year}) => {
           className="w-full h-auto"
           loading="lazy"
         />
-      </div>
+      </figure>
 
       {/* Text */}
-      <div
-        className="
-      w-full h-auto
-      bg-black
-      
-      text-[#797979]
-      leading-[1.4]
-      text-lg
-    "
-      >
+      <section className="w-full h-auto bg-black text-[#797979] leading-[1.4] text-lg">
         <div className="text-white bg-black px-16 pt-8 pb-14 max-sm:px-4">
           <p className="mb-4 text-xl max-sm:text-lg">
             Love is in the Bin is a 2018 art intervention by Banksy at Sotheby's
@@ -63,7 +46,7 @@ const Banksy = ({image, title, name, year}) => {
             record for the artist.
           </p>
 
-          <div className="w-full text-xl font-semibold">Original work</div>
+          <h3 className="w-full text-xl font-semibold border-b pb-2 mb-2">Original work</h3>
 
           <p className=" max-sm:text-lg">
             The painting is an adaptation of Banksy's 2002 mural Girl with
@@ -73,8 +56,8 @@ const Banksy = ({image, title, name, year}) => {
             this time in case the work was ever put up for auction.
           </p>
         </div>
-      </div>
-    </div>
+      </section>
+    </article>
   );
 };
 

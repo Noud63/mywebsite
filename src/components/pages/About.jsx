@@ -3,11 +3,11 @@ import { Link } from "react-router-dom";
 
 const About = () => {
   return (
-    <div className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-mobile:px-2 max-sm:mt-8 max-xsm:mt-4">
-      <div className="w-full flex max-w-[900px] flex-col ">
-        <div className="border-b border-blue-950 pb-4 text-center text-3xl max-sm:text-2xl">
-          <span>What it's all about.</span>
-        </div>
+    <main className="w-full flex flex-col items-center mb-[300px] mt-12 text-blue-950 max-mobile:px-2 max-sm:mt-8 max-xsm:mt-4">
+      <article className="w-full flex max-w-[900px] flex-col ">
+        <h1 className="border-b border-blue-950 pb-4 text-center text-2xl max-sm:text-2xl">
+          <span>What it's all about</span>
+        </h1>
 
         <div className="w-full flex flex-col text-xl pt-4 gap-y-4  max-sm:text-lg max-mobile:px-2">
           <p>
@@ -49,35 +49,40 @@ const About = () => {
             to 2011, and Cluster C from 1994 to 2006.
           </p>
 
-          <p>
-            Finally, a highly compressed résumé of my educational background.
-            <br />
-            I studied art at the Hogeschool voor de Kunsten in Maastricht from
-            1984 to 1989.
-            <br />
-            After that I studied at the Jan van Eyck Academie, also in
-            Maastricht, for only one year fom 1989 to 1990.
-            <br />
-            Subsequently I was admitted at the "Ateliers 63" wich was located in
+          <section id="education" className="mt-6">
+    
+            <h1 className="border-b border-blue-950 pb-2 mb-4 text-center text-2xl max-sm:text-2xl">
+          <span>Education and professional background</span>
+            </h1>
+            
+            <dl>
+              <dd>I studied art at the Hogeschool voor de Kunsten in Maastricht from
+            1984 to 1989.</dd>
+          
+            <dd>After that I studied at the Jan van Eyck Academie, also in
+            Maastricht, for only one year fom 1989 to 1990.</dd>
+            
+            <dd>Subsequently I was admitted at the "Ateliers 63" wich was located in
             Haarlem at the time and is now located in Amsterdam under the name
-            "De Ateliers".
-            <br />
-            The latter two are so-called second-phase postgraduate art
+            "De Ateliers".</dd>
+            
+            <dd>The latter two are so-called second-phase postgraduate art
             programmes that focus on the further artistic development of artists
-            and their preparation for an independent professional practice.
-            <br />
-            After two years at De Ateliers, from 1990 to 1992, I began my
-            professional career as an independent artist in Haarlem.
-            <br />
-            After five years in Haarlem I relocated to Amsterdam in 1997.
-            <br />
-            In 1992 I was awarded the "Van Bommel Van Dam Art Prize" and in 1995
+            and their preparation for an independent professional practice.</dd>
+            
+            <dd>After two years at De Ateliers, from 1990 to 1992, I began my
+            professional career as an independent artist in Haarlem.</dd>
+            
+            <dd>After five years in Haarlem I relocated to Amsterdam in 1997.</dd>
+            
+            <dd>In 1992 I was awarded the "Van Bommel Van Dam Art Prize" and in 1995
             I recieved the "Koninklijke Subsidie voor vrije Schilderkunst" art
-            prize.
-            <br />
-            In 1991, 1995, 1997, 1999, 2001, and 2008, I received grants from
-            the Mondriaan Fonds in recognition of my artistic practice.
-          </p>
+            prize.</dd>
+            
+            <dd>In 1991, 1995, 1997, 1999, 2001, and 2008, I received grants from
+            the Mondriaan Fonds in recognition of my artistic practice.</dd>
+            </dl>
+          </section>
 
           <p>
             In 2019, I started learning how to code and build web applications.
@@ -106,21 +111,21 @@ const About = () => {
             </a>
           </p>
 
-          <p className="text-sm text-center mt-8">
+          <aside className="text-sm text-center mt-6">
             (Note: for convenience, I use “modern art” as an umbrella term that
             includes contemporary art as well.)
-          </p>
+          </aside>
         </div>
-      </div>
-      <div className="mt-20">
+      </article>
+      <nav className="mt-14">
         <Link
           to="/"
           className="cursor-pointer border border-blue-950 px-10 py-2 rounded-full bg-gradient-to-r from-black via-slate-500 to-black text-white text-xl tracking-wide max-sm:py-1 max-sm:px-8"
         >
           Back
         </Link>
-      </div>
-    </div>
+      </nav>
+    </main>
   );
 };
 

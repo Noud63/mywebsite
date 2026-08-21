@@ -2,17 +2,17 @@ import React from "react";
 
 const Stanleybrouwn = ({ image, name, year, title }) => {
   return (
-    <div className="max-mobile:px-2">
-      <div className="flex flex-col text-center border-t border-black pt-6 pb-2 text-black">
+    <article className="max-mobile:px-2">
+      <header className="flex flex-col text-center border-t border-black pt-6 pb-2 text-black">
         <span className="text-2xl max-sm:text-xl">{name}</span>
         <span className="text-lg max-sm:text-sm">
           "{title}" {year}
         </span>
-      </div>
-      <div className="w-full">
+      </header>
+      <figure className="w-full">
         <img src={image} alt="stanleybrouwn" loading="lazy" />
-      </div>
-      <div className="flex flex-col text-xl text-black px-16 pt-6 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4 border-b border-black">
+      </figure>
+      <section className="flex flex-col text-xl text-black px-16 pt-6 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4 border-b border-black">
         <p>
           In his work This Way Brouwn, Stanley Brouwn engaged with this simple
           act: he asked random passers-by for directions and marked their
@@ -28,8 +28,8 @@ const Stanleybrouwn = ({ image, name, year, title }) => {
           co-creators, experiencing the work from the perspective of the artist
           who orchestrated it.
         </p>
-      </div>
-    </div>
+      </section>
+    </article>
   );
 };
 

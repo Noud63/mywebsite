@@ -2,17 +2,17 @@ import React from "react";
 
 const Basjanader = ({ image, name, year, title }) => {
   return (
-    <div className="max-mobile:px-2">
-      <div className="flex flex-col border-t border-black text-center py-6 text-black">
+    <article className="max-mobile:px-2">
+      <header className="flex flex-col border-t border-black text-center py-6 text-black">
         <span className="text-2xl max-sm:text-xl">{name}</span>
         <span className="text-lg max-sm:text-sm">
           "{title}" {year}
         </span>
-      </div>
-      <div className="w-full">
+      </header>
+      <figure className="w-full">
         <img src={image} alt="basjanader" loading="lazy" />
-      </div>
-      <div className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
+      </figure>
+      <section className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
         <p>
           In 1975 Bas Jan Ader disappeared at sea while trying to sail from the
           East Coast of the United States to Europe as part of a project titled
@@ -34,8 +34,8 @@ const Basjanader = ({ image, name, year, title }) => {
           a critical investigation of precisely those romantic motives his
           persona has now come to be identified with.
         </p>
-      </div>
-    </div>
+      </section>
+    </article>
   );
 };
 export default Basjanader;

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cattelan = ({image, year, title, name}) => {
   return (
-    <div className="max-mobile:px-2">
+    <article className="max-mobile:px-2">
   
   {/* Header */}
   <div
@@ -10,7 +10,7 @@ const Cattelan = ({image, year, title, name}) => {
       flex w-full flex-row items-center justify-center
     "
   >
-    <div
+    <header
       className="
         flex w-full flex-col items-center justify-center
          pt-8
@@ -29,11 +29,11 @@ const Cattelan = ({image, year, title, name}) => {
         "{title}" {year}
       </span>
 
-    </div>
+    </header>
   </div>
 
   {/* Image Section */}
-  <div
+  <figure
     className="
       relative w-full h-auto
       leading-none
@@ -48,10 +48,10 @@ const Cattelan = ({image, year, title, name}) => {
       loading="lazy"
     />
 
-  </div>
+  </figure>
 
   {/* Text */}
-  <div
+  <section
     className="
       w-full h-auto
       px-16 pt-8 pb-14
@@ -92,8 +92,8 @@ const Cattelan = ({image, year, title, name}) => {
     gallery Perrotin's booth at the art fair, although for a completely
     different reason. The work of art had caused ‘several uncontrollable crowd
     movements'.
-  </div>
-</div>
+  </section>
+</article>
   )
 }
 

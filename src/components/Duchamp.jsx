@@ -2,15 +2,15 @@ import React from "react";
 
 const Duchamp = ({ image, url, name, year, title }) => {
   return (
-    <div  className="max-mobile:px-2">
-      <div className="flex flex-col text-center bg-black py-6 text-white">
+    <article  className="max-mobile:px-2">
+      <header className="flex flex-col text-center bg-black py-6 text-white">
         <span className="text-2xl max-sm:text-xl">{name}</span>
         <span className="text-lg max-sm:text-sm">"{title}" {year}</span>
-      </div>
-      <div className="w-full bg-black">
+      </header>
+      <figure className="w-full bg-black">
         <img src={image} alt="duchamp" loading="lazy"/>
-      </div>
-      <div className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
+      </figure>
+      <section className="flex flex-col bg-black text-xl text-white px-16 pt-12 pb-14 max-sm:text-lg max-sm:px-4 gap-y-4">
         <p>
           Duchamp destroys the stable historical referent by detaching a urinal
           from its commonly understood function. This piece questions the very
@@ -32,8 +32,8 @@ const Duchamp = ({ image, url, name, year, title }) => {
             The iconic fountain 1917 is not created by marcel duchamp!?
           </span>
         </a>
-      </div>
-    </div>
+      </section>
+    </article>
   );
 };
 

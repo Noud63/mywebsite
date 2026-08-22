@@ -25,9 +25,9 @@ const PaintingInfoOverlay = ({ id, closeOverlay, open }) => {
             <span className="ml-2 font-normal">({painting?.year})</span>
           </h2>
           <dl className="flex flex-col items-center justify-center">
-            <dd className={`text-center max-sm:text-sm`}>
+            <dt className={`text-center max-sm:text-sm`}>
               {painting?.title_long}
-            </dd>
+            </dt>
             <dd>
               <span className="max-sm:text-sm">{painting?.technique}</span>
             </dd>

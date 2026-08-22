@@ -5,52 +5,66 @@ const Intro = () => {
     <dl className="flex flex-col text-xl text-blue-950  max-lg:border-none max-mobile:px-2 max-sm:text-lg">
       <div className="flex flex-row max-lg:flex-col">
         <div className="border-r border-b border-blue-950 p-4 w-[50%] max-lg:w-full max-lg:border-r-0 max-mobile:px-2">
-          <dt className="font-semibold">Art: </dt> refers to the theory,
-          human application and physical expression of creativity found in human
-          cultures and societies through skills and imagination in order to
-          produce objects, environments and experiences.
+          <dt className="font-semibold">Art: </dt>{" "}
+          <dd>
+            refers to the theory, human application and physical expression of
+            creativity found in human cultures and societies through skills and
+            imagination in order to produce objects, environments and
+            experiences.
+          </dd>
         </div>
 
         <div className="border-b border-blue-950 p-4 w-[50%] max-lg:w-full max-xsm:px-2">
-          <dt className="font-semibold">Perception:</dt> (from the Latin
-          perceptio, meaning gathering or receiving) is the organization,
-          identification, and interpretation of sensory information in order to
-          represent and understand the presented information or environment.
+          <dt className="font-semibold">Perception:</dt>
+          <dd>
+            (from the Latin perceptio, meaning gathering or receiving) is the
+            organization, identification, and interpretation of sensory
+            information in order to represent and understand the presented
+            information or environment.
+          </dd>
         </div>
       </div>
 
       <div className="flex flex-row max-lg:flex-col">
         <div className="border-r border-b border-blue-950 p-4 w-[50%] max-lg:w-full max-lg:border-r-0 max-lg:border-b max-xsm:px-2">
-          <dt className="font-semibold">Modern art:</dt> includes artistic
-          work produced during the period extending roughly from 1860 to 1970.
-          The term is usually associated with art in which the traditions of the
-          past have been thrown aside in a spirit of experimentation.
+          <dt className="font-semibold">Modern art:</dt>
+          <dd>
+            includes artistic work produced during the period extending roughly
+            from 1860 to 1970. The term is usually associated with art in which
+            the traditions of the past have been thrown aside in a spirit of
+            experimentation.
+          </dd>
         </div>
         <div className="p-4 w-[50%] border-b max-lg:w-full max-lg:border-b max-xsm:px-2">
-          <dt className="font-semibold">Aesthetics:</dt> a branch of
-          philosophy that deals with the nature of beauty and taste, as well as
-          the philosophy of art. It examines aesthetic values often expressed
-          through judgments of taste.
+          <dt className="font-semibold">Aesthetics:</dt>
+          <dd>
+            a branch of philosophy that deals with the nature of beauty and taste,
+            as well as the philosophy of art. It examines aesthetic values often
+            expressed through judgments of taste.
+          </dd>
         </div>
       </div>
 
       <div className="flex flex-row max-lg:flex-col">
         <div className="border-r border-b border-blue-950 p-4 w-[50%] max-lg:w-full max-lg:border-r-0 max-lg:border-b max-xsm:px-2">
-          <dt className="font-semibold">Contemporary art:</dt> art produced
-          during the period extending roughly from 1970 to the present day. It
-          is characterized by immense diversity in medium, materials, and
-          themes, often reflecting complex global and social issues while
-          breaking from traditional artistic conventions.
+          <dt className="font-semibold">Contemporary art:</dt>
+          <dd>
+            art produced during the period extending roughly from 1970 to the
+            present day. It is characterized by immense diversity in medium,
+            materials, and themes, often reflecting complex global and social
+            issues while breaking from traditional artistic conventions.
+          </dd>
         </div>
         <div className="p-4 w-[50%] border-b max-lg:w-full max-lg:border-b max-xsm:px-2">
-          <dt className="font-semibold">Contextual framing:</dt> how
-          environment, presentation, or information shapes the viewers
-          perception and defines the artwork's meaning. It uses structural
-          elements to influence interpretation, transforming how viewers
-          understand an artwork's aesthetic, historical, or social context.
+          <dt className="font-semibold">Contextual framing:</dt>
+          <dd>
+            how environment, presentation, or information shapes the viewers
+            perception and defines the artwork's meaning. It uses structural
+            elements to influence interpretation, transforming how viewers
+            understand an artwork's aesthetic, historical, or social context.
+          </dd>
         </div>
       </div>
-  
     </dl>
   );
 };
